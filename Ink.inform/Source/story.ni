@@ -31,6 +31,8 @@ The Living Room is a room. "Your living room is very clean, but only because you
 
 The large wooden table is scenery in the Living Room. It is undescribed. The description is "large wooden table description"
 
+The dusty black typewriter is scenery on the large wooden table. The description is "The typewriter is coated with a thin layer of dust. Besides a few small scratches, the body of the typewriter is black as coal. A small stack of eggshell The keys are a faded gold color."
+
 [other names for the table]
 Understand "countertop" as the large wooden table. Understand "counter" as the large wooden table. Understand "wooden desk" as the large wooden table. Understand "big wooden table" as the large wooden table. Understand "big table" as the large wooden table.
 
