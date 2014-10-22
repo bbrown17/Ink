@@ -52,7 +52,7 @@ Topic	Answer
 
 The Living Room is a room. "Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table."
 
-The large wooden table is undescribed scenery in the Living Room. The description is "large wooden table description"
+The large wooden table is undescribed scenery in the Living Room. The description is "The table is made of dark oak wood. On the table is a typewriter."
 
 [TYPEWRITER]
 The dusty black typewriter is somebody on the large wooden table. The description is "The typewriter is coated with a thin layer of dust. Besides a few small scratches, the body of the typewriter is black as coal. A small stack of eggshell-colored stationery is placed in the typewriter's paper table. The keys look worn and are a faded gold color. The keys need to be pushed very hard to type anything."
@@ -60,18 +60,18 @@ The dusty black typewriter is somebody on the large wooden table. The descriptio
 [other names for the table]
 Understand "countertop" as the large wooden table. Understand "counter" as the large wooden table. Understand "wooden desk" as the large wooden table. Understand "big wooden table" as the large wooden table. Understand "big table" as the large wooden table.
 
-The Attic is above the Living Room. "attic description"
+The Attic is above the Living Room. "The attic is dark and dusty. It seems to be about five feet tall so you have to crouch a little. There's no light besides the light leaking in from the Living Room below."
 
 The Bedroom is south of the Living Room. "Your bedroom probably shouldn't be called that because it has no bed and barely any room. Moving boxes take up most of what little space there is in the room. On the floor is a small yellow mattress."
 
-The small yellow mattress is scenery in the Bedroom
+The small yellow spring mattress is undescribed scenery in the Bedroom. The description is "The small yellow mattress lays on the floor of the Bedroom. It's a bit dusty. Its springs creak when you sit on it."
 
-Understand "the bed" as the small yellow mattress.
+Understand "the bed" as the small yellow spring mattress.
 
-The Back Porch is north of the Green House. "The back porch is dusty."
+The Back Porch is north of the Green House. "The back porch of the Green House is covered in cobwebs. The air smells strongly of birds; if you closed your eyes you might think you were looking at flamingos at the zoo. The little grass that is on the ground is dead."
 
-The Green House is east of the General Store and northeast of the Living Room. "This is the house where you bought the typewriter."
+The Green House is east of the General Store and northeast of the Living Room. "You bought the typewriter at this house. It's called the 'Green House' by your neighbors, presumably because the entire house is painted green. The front door and even the window above it are painted green."
 
-The General Store is west of the Green House and north of the Living Room. "The General Store sells like everything."
+The General Store is west of the Green House and north of the Living Room. "The General Store looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door."
 
-The Purple House is west of the General Store and northwest of the Living Room. "Mrs. Bloom is so nice. She lives in the purple house."
+The Purple House is west of the General Store and northwest of the Living Room. "The Purple House is the only other house on the street besides the Green House that is described by its owner's choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs. Bloom."
