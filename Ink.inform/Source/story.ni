@@ -67,6 +67,6 @@ The Green House is east of the Front of the General Store and northeast of the L
 
 The Front of the General Store is west of the Green House and north of the Living Room. "From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. Through the big windows at the front of the store you can see a security guard, sleeping in the dark."
 
-
+Instead of entering the General Store, say "You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and locks the door"
 
 The Purple House is west of the Front of the General Store and northwest of the Living Room. "The Purple House is the only other house on the street besides the Green House that is described by its owner's choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs. Bloom."
