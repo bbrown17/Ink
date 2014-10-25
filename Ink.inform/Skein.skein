@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <Skein rootNode="node-0x214c10" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x693c970" />
+  <activeNode nodeId="node-0xda68ca0" />
   <item nodeId="node-0x214c10">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
 
-You&apos;re driving home from work, tired from a long day of writing for your local newspaper. You notice a garage sale in a green house and decide to take a look at what&apos;s being sold. Nothing there interests you; it&apos;s mostly worn out books and ripped clothes. Just as you&apos;re ready to leave, a dusty black typewriter catches your eye. Mr. Baker, the man running the garage sale, sells it to you for $5. You arrive home and put the typewriter on a large wooden table in your living room. You&apos;re intrigued by your new purchase but you&apos;re also exhausted from a nonstop work day. You examine the typewriter; a few sheets of paper are already placed in it and the ink is half full. After yawning one last time, you head up to bed.
+You&apos;re driving home from work, tired from a long day of writing for your local newspaper. You notice a garage sale in a green house and decide to take a look at what&apos;s being sold. Nothing there interests you; it&apos;s mostly worn out books and ripped clothes. Just as you&apos;re ready to leave, a dusty black typewriter catches your eye. Mr Baker, the man running the garage sale, sells it to you for $5. You arrive home and put the typewriter on a large wooden table in your living room. You&apos;re intrigued by your new purchase but you&apos;re also exhausted from a nonstop work day. You examine the typewriter; a few sheets of paper are already placed in it and the ink is half full. After yawning one last time, you head up to bed.
 
 Ink
 An Interactive Fiction by Brennan
@@ -19,25 +19,18 @@ Your living room is very clean, but, only because you just moved into this house
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="30">NO</temporary>
+    <temporary score="218">NO</temporary>
     <children>
+      <child nodeId="node-0x692d6b0" />
       <child nodeId="node-0x213270" />
-      <child nodeId="node-0x2134a0" />
-      <child nodeId="node-0x213510" />
-      <child nodeId="node-0x213f00" />
-      <child nodeId="node-0x213660" />
-      <child nodeId="node-0x213740" />
-      <child nodeId="node-0x213900" />
-      <child nodeId="node-0x213b30" />
-      <child nodeId="node-0x213c80" />
-      <child nodeId="node-0x213cf0" />
-      <child nodeId="node-0x214550" />
+      <child nodeId="node-0x16f28890" />
+      <child nodeId="node-0x69fb6e0" />
+      <child nodeId="node-0x16f39e70" />
       <child nodeId="node-0x2142b0" />
-      <child nodeId="node-0x214320" />
       <child nodeId="node-0x2146f0" />
-      <child nodeId="node-0x6983d10" />
+      <child nodeId="node-0x69c5830" />
       <child nodeId="node-0x214cb0" />
-      <child nodeId="node-0x2942a0" />
+      <child nodeId="node-0x6944660" />
       <child nodeId="node-0x966dd30" />
     </children>
   </item>
@@ -45,17 +38,284 @@ Your living room is very clean, but, only because you just moved into this house
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front of the General Store
-From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
-
-You can see a Front Door here.
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
 
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="30">YES</temporary>
+    <temporary score="148">YES</temporary>
     <children>
       <child nodeId="node-0x69a7350" />
+      <child nodeId="node-0x961e440" />
+      <child nodeId="node-0x16f8ff30" />
     </children>
+  </item>
+  <item nodeId="node-0x16f8ff30">
+    <command xml:space="preserve">take clock</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f95b90" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f95b90">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a shiny red alarm clock
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0xda60120" />
+    </children>
+  </item>
+  <item nodeId="node-0xda60120">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Living Room
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0xda34b10" />
+    </children>
+  </item>
+  <item nodeId="node-0xda34b10">
+    <command xml:space="preserve">give clock to typewriter</command>
+    <result xml:space="preserve">The typewriter clicks and clacks with joy. You have succeeded in your first mission. You may want to examine the typewriter closely once again
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="148">YES</temporary>
+    <children>
+      <child nodeId="node-0xdaaa740" />
+    </children>
+  </item>
+  <item nodeId="node-0xdaaa740">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="147">YES</temporary>
+  </item>
+  <item nodeId="node-0x961e440">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and locks the door
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0x6932c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x6932c00">
+    <command xml:space="preserve">x top of front door</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0xda3bf80" />
+    </children>
+  </item>
+  <item nodeId="node-0xda3bf80">
+    <command xml:space="preserve">type something</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0x6929b80" />
+    </children>
+  </item>
+  <item nodeId="node-0x6929b80">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Living Room
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0xda7cac0" />
+    </children>
+  </item>
+  <item nodeId="node-0xda7cac0">
+    <command xml:space="preserve">type something</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0x1ef520" />
+    </children>
+  </item>
+  <item nodeId="node-0x1ef520">
+    <command xml:space="preserve">ne</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0x697ee80" />
+    </children>
+  </item>
+  <item nodeId="node-0x697ee80">
+    <command xml:space="preserve">ask mr baker about cats</command>
+    <result xml:space="preserve">Ah, hello there. What did you say? Ah... never mind. I remember you from the garage sale. I meant to tell you something about your typewriter - particularly the ink. If you have purple ink, you need to take a special wooden spoon and mix the ink until it becomes black ink. After that, just pour the black ink into the typewriter. You&apos;ll find a spoon like that somewhere in my back porch.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0x32d680" />
+    </children>
+  </item>
+  <item nodeId="node-0x32d680">
+    <command xml:space="preserve">ask mr baker about chicken</command>
+    <result xml:space="preserve">Hey, I&apos;m a busy old man. Just grab the spoon from my back porch and mix your ink.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0xe24c3a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe24c3a0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Back Porch
+The back porch of the Green House is covered in cobwebs. The air smells strongly of birds; if you closed your eyes you might think you were looking at flamingos at the zoo. The little grass that is on the ground is dead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0x9627b80" />
+    </children>
+  </item>
+  <item nodeId="node-0x9627b80">
+    <command xml:space="preserve">take spoon</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0xe23ac20" />
+    </children>
+  </item>
+  <item nodeId="node-0xe23ac20">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0x960c8e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x960c8e0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0xda5c530" />
+    </children>
+  </item>
+  <item nodeId="node-0xda5c530">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Purple House
+The Purple House is the only other house on the street besides the Green House that is described by its owner&apos;s choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs Bloom.
+
+Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really likes to answer direct questions about things. Her first name is Marsa but she likes being called &quot;Mrs&quot; (with no dot) for short. She is working in front of the house.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0xe282c70" />
+    </children>
+  </item>
+  <item nodeId="node-0xe282c70">
+    <command xml:space="preserve">ask mrs bloom about ink</command>
+    <result xml:space="preserve">&quot;Oh, that reminds me!&quot;, she says, &quot;I have all this leftover purple ink from my custom dyed stationery paper and I was looking for somebody who might want to use it. You&apos;re a writer, right? Here, take it!&quot;
+
+She hands you a jar of purple ink. &quot;I&apos;ll see you later&quot;, she says as she continues her work.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0xe269890" />
+    </children>
+  </item>
+  <item nodeId="node-0xe269890">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a jar of purple ink
+  a wooden spoon
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="104">YES</temporary>
+    <children>
+      <child nodeId="node-0xda41050" />
+    </children>
+  </item>
+  <item nodeId="node-0xda41050">
+    <command xml:space="preserve">se</command>
+    <result xml:space="preserve">
+Living Room
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="103">YES</temporary>
   </item>
   <item nodeId="node-0x69a7350">
     <command xml:space="preserve">w</command>
@@ -113,71 +373,22 @@ She hands you a jar of purple ink.
   </item>
   <item nodeId="node-0x693c970">
     <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a jar of purple ink
+
+&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="29">YES</temporary>
   </item>
-  <item nodeId="node-0x2942a0">
-    <command xml:space="preserve">x typewriter</command>
-    <result xml:space="preserve">The typewriter is coated with a thin layer of dust. Besides a few small scratches, the body of the typewriter is black as coal. A small stack of eggshell-colored stationery is placed in the typewriter&apos;s paper table. The keys look worn and are a faded gold color. The keys need to be pushed very hard to type anything.
-
-Two papers have been printed out that you know you didn&apos;t type. It&apos;s as if the typewriter wrote it all by itself. The first paper is titled &quot;Instructions Paper&quot;. The second paper reads:
-
-Locked inside me is something very valuable. At the bottom of my body is a keyhole that will allow you to retrieve it.  I&apos;m certain you&apos;ll like what you find.
-
-These papers had to have been written by the typewriter!
+  <item nodeId="node-0x6944660">
+    <command xml:space="preserve">mix</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="20">YES</temporary>
-    <children>
-      <child nodeId="node-0x2942f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x2942f0">
-    <command xml:space="preserve">n</command>
-    <result xml:space="preserve">
-Front of the General Store
-From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="20">YES</temporary>
-    <children>
-      <child nodeId="node-0x294340" />
-    </children>
-  </item>
-  <item nodeId="node-0x294340">
-    <command xml:space="preserve">enter store</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="20">YES</temporary>
-    <children>
-      <child nodeId="node-0x294390" />
-    </children>
-  </item>
-  <item nodeId="node-0x294390">
-    <command xml:space="preserve">go inside</command>
-    <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="20">YES</temporary>
-    <children>
-      <child nodeId="node-0x214c60" />
-    </children>
-  </item>
-  <item nodeId="node-0x214c60">
-    <command xml:space="preserve">n</command>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="19">YES</temporary>
+    <temporary score="114">YES</temporary>
   </item>
   <item nodeId="node-0x214cb0">
     <command xml:space="preserve">ask about topic 1</command>
@@ -214,55 +425,173 @@ topic a response
     <changed>YES</changed>
     <temporary score="35">YES</temporary>
   </item>
-  <item nodeId="node-0x6983d10">
-    <command xml:space="preserve">nw</command>
+  <item nodeId="node-0x69c5830">
+    <command xml:space="preserve">ne</command>
     <result xml:space="preserve">
-Purple House
-The Purple House is the only other house on the street besides the Green House that is described by its owner&apos;s choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs Bloom.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="21">YES</temporary>
-    <children>
-      <child nodeId="node-0x69698a0" />
-    </children>
-  </item>
-  <item nodeId="node-0x69698a0">
-    <command xml:space="preserve">ask mrs bloom about purple ink</command>
-    <result xml:space="preserve">&quot;Oh, that reminds me!&quot;, she says, &quot;I have all this leftover purple ink from my custom dyed stationery paper and I was looking for somebody who might want to use it. You&apos;re a writer, right? Here, take it!&quot;
-
-She hands you a jar of purple ink.
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="21">YES</temporary>
+    <temporary score="112">YES</temporary>
     <children>
-      <child nodeId="node-0x9691100" />
+      <child nodeId="node-0x966abc0" />
     </children>
   </item>
-  <item nodeId="node-0x9691100">
+  <item nodeId="node-0x966abc0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Back Porch
+The back porch of the Green House is covered in cobwebs. The air smells strongly of birds; if you closed your eyes you might think you were looking at flamingos at the zoo. The little grass that is on the ground is dead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="112">YES</temporary>
+    <children>
+      <child nodeId="node-0x3d52b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x3d52b0">
+    <command xml:space="preserve">take spoon</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>NO</changed>
+    <temporary score="112">YES</temporary>
+    <children>
+      <child nodeId="node-0x96f8f90" />
+      <child nodeId="node-0xda943d0" />
+    </children>
+  </item>
+  <item nodeId="node-0xda943d0">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="112">YES</temporary>
+    <children>
+      <child nodeId="node-0xe2ab680" />
+    </children>
+  </item>
+  <item nodeId="node-0xe2ab680">
+    <command xml:space="preserve">sw</command>
+    <result xml:space="preserve">
+Living Room
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="112">YES</temporary>
+    <children>
+      <child nodeId="node-0x96a7470" />
+    </children>
+  </item>
+  <item nodeId="node-0x96a7470">
+    <command xml:space="preserve">put spoon on table</command>
+    <result xml:space="preserve">You put the wooden spoon on the large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="112">YES</temporary>
+    <children>
+      <child nodeId="node-0xda71120" />
+    </children>
+  </item>
+  <item nodeId="node-0xda71120">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="112">YES</temporary>
+    <children>
+      <child nodeId="node-0x696d2a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x696d2a0">
+    <command xml:space="preserve">x table</command>
+    <result xml:space="preserve">The table is made of dark oak wood. On the table is a typewriter.
+
+On the large wooden table is a wooden spoon.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="111">YES</temporary>
+  </item>
+  <item nodeId="node-0x96f8f90">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
-  a jar of purple ink
+  a wooden spoon
 
 &gt;</result>
     <played>YES</played>
     <changed>NO</changed>
-    <temporary score="21">YES</temporary>
+    <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0x698e610" />
+      <child nodeId="node-0x692e7a0" />
     </children>
   </item>
-  <item nodeId="node-0x698e610">
-    <command xml:space="preserve">Ask Mrs Bloom about purple ink</command>
-    <result xml:space="preserve">I&apos;m busy now, sorry! You already have the jar of purple ink!
+  <item nodeId="node-0x692e7a0">
+    <command xml:space="preserve">x spoon</command>
+    <result xml:space="preserve">The spoon is about as long as your hand and made of cheap wood. The handle of the spoon reads &quot;FOR USE WITH INK ONLY&quot;
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="20">YES</temporary>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x69b0060" />
+    </children>
+  </item>
+  <item nodeId="node-0x69b0060">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green. The front door and even the window above it are painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x96e53d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x96e53d0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+You can see a Front Door here.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="42">YES</temporary>
+    <children>
+      <child nodeId="node-0x6989760" />
+    </children>
+  </item>
+  <item nodeId="node-0x6989760">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="41">YES</temporary>
   </item>
   <item nodeId="node-0x2146f0">
     <command xml:space="preserve">ask about chicken</command>
@@ -335,15 +664,6 @@ She hands you a jar of purple ink.
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="39">YES</temporary>
-  </item>
-  <item nodeId="node-0x214320">
-    <command xml:space="preserve">ask typewriter chicken</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="22">YES</temporary>
   </item>
   <item nodeId="node-0x2142b0">
     <command xml:space="preserve">climb ladder</command>
@@ -454,341 +774,1166 @@ Your living room is very clean, but only because you just moved in to this house
     <changed>YES</changed>
     <temporary score="32">YES</temporary>
   </item>
-  <item nodeId="node-0x214550">
-    <command xml:space="preserve">x big table</command>
+  <item nodeId="node-0x16f39e70">
+    <command xml:space="preserve">mix this</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="24">YES</temporary>
+    <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x213d60" />
+      <child nodeId="node-0xe20ded0" />
     </children>
   </item>
-  <item nodeId="node-0x213d60">
-    <command xml:space="preserve">x big wooden table</command>
-    <result xml:space="preserve">large wooden table description
+  <item nodeId="node-0xe20ded0">
+    <command xml:space="preserve">mix table with that</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="23">YES</temporary>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x69d42f0" />
+    </children>
   </item>
-  <item nodeId="node-0x213cf0">
+  <item nodeId="node-0x69d42f0">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Purple House
+The Purple House is the only other house on the street besides the Green House that is described by its owner&apos;s choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs Bloom.
+
+Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really likes to answer direct questions about things. Her first name is Marsa but she likes being called &quot;Mrs&quot; (with no dot) for short. She is working in front of the house.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f6f2c0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f6f2c0">
+    <command xml:space="preserve">ask mrs bloom about ink</command>
+    <result xml:space="preserve">&quot;Oh, that reminds me!&quot;, she says, &quot;I have all this leftover purple ink from my custom dyed stationery paper and I was looking for somebody who might want to use it. You&apos;re a writer, right? Here, take it!&quot;
+
+She hands you a jar of purple ink. &quot;I&apos;ll see you later&quot;, she says as she continues her work.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0xe214970" />
+    </children>
+  </item>
+  <item nodeId="node-0xe214970">
+    <command xml:space="preserve">ii</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x16d65560" />
+    </children>
+  </item>
+  <item nodeId="node-0x16d65560">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a jar of purple ink
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x698efc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x698efc0">
+    <command xml:space="preserve"></command>
+    <result xml:space="preserve">I beg your pardon?
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x16d531f0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16d531f0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f53530" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f53530">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0xe2fb690" />
+    </children>
+  </item>
+  <item nodeId="node-0xe2fb690">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Back Porch
+The back porch of the Green House is covered in cobwebs. The air smells strongly of birds; if you closed your eyes you might think you were looking at flamingos at the zoo. The little grass that is on the ground is dead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x6928090" />
+    </children>
+  </item>
+  <item nodeId="node-0x6928090">
+    <command xml:space="preserve">take spoon</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x16d38e70" />
+    </children>
+  </item>
+  <item nodeId="node-0x16d38e70">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a wooden spoon
+  a jar of purple ink
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f56720" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f56720">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
-Bedroom
-bed + room = bedroom!
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="20">YES</temporary>
-  </item>
-  <item nodeId="node-0x213c80">
-    <command xml:space="preserve">ask typewriter where the key is</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="22">YES</temporary>
+    <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x213c10" />
+      <child nodeId="node-0x967d9a0" />
     </children>
   </item>
-  <item nodeId="node-0x213c10">
-    <command xml:space="preserve">ask where the key is</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="22">YES</temporary>
-    <children>
-      <child nodeId="node-0x213ba0" />
-    </children>
-  </item>
-  <item nodeId="node-0x213ba0">
-    <command xml:space="preserve">ask about where the key is</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="21">YES</temporary>
-  </item>
-  <item nodeId="node-0x213b30">
-    <command xml:space="preserve">x table</command>
-    <result xml:space="preserve">large wooden table description
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="22">YES</temporary>
-    <children>
-      <child nodeId="node-0x213ac0" />
-    </children>
-  </item>
-  <item nodeId="node-0x213ac0">
-    <command xml:space="preserve">x countertop</command>
-    <result xml:space="preserve">large wooden table description
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="22">YES</temporary>
-    <children>
-      <child nodeId="node-0x213a50" />
-    </children>
-  </item>
-  <item nodeId="node-0x213a50">
-    <command xml:space="preserve">x counter top</command>
-    <result xml:space="preserve">I only understood you as far as wanting to examine the large wooden table.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="22">YES</temporary>
-    <children>
-      <child nodeId="node-0x2139e0" />
-    </children>
-  </item>
-  <item nodeId="node-0x2139e0">
-    <command xml:space="preserve">x large table</command>
-    <result xml:space="preserve">large wooden table description
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="22">YES</temporary>
-    <children>
-      <child nodeId="node-0x213970" />
-    </children>
-  </item>
-  <item nodeId="node-0x213970">
-    <command xml:space="preserve">x big table</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="21">YES</temporary>
-  </item>
-  <item nodeId="node-0x213900">
-    <command xml:space="preserve">x the first paper</command>
-    <result xml:space="preserve">The paper is titled &quot;INSTRUCTIONS&quot; and reads: You can ask me about nearly anything. I don&apos;t guarantee that I will always give you an answer. I&apos;m here to help you learn, therefore, I do not wish to answer questions that ask questions like &quot;where is it?&quot; or &quot;what is it?&quot;. I much prefer to answer questions that ask about things. If you want to know what something is, then, ask me about what it is. If you want to know where something is, ask me about where it is.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="15">YES</temporary>
-    <children>
-      <child nodeId="node-0x213890" />
-    </children>
-  </item>
-  <item nodeId="node-0x213890">
-    <command xml:space="preserve">x first paper</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="15">YES</temporary>
-    <children>
-      <child nodeId="node-0x213820" />
-    </children>
-  </item>
-  <item nodeId="node-0x213820">
-    <command xml:space="preserve">x paper</command>
-    <result xml:space="preserve">The paper is titled &quot;INSTRUCTIONS&quot; and reads: You can ask me about nearly anything. I don&apos;t guarantee that I will always give you an answer. I&apos;m here to help you learn, therefore, I do not wish to answer questions that ask questions like &quot;where is it?&quot; or &quot;what is it?&quot;. I much prefer to answer questions that ask about things. If you want to know what something is, then, ask me about what it is. If you want to know where something is, ask me about where it is.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="15">YES</temporary>
-  </item>
-  <item nodeId="node-0x213740">
-    <command xml:space="preserve">take all</command>
-    <result xml:space="preserve">Wake up! You must&apos;ve dozed off and had a dream that you could just take everything in a room at once.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="19">YES</temporary>
-    <children>
-      <child nodeId="node-0x2136d0" />
-    </children>
-  </item>
-  <item nodeId="node-0x2136d0">
-    <command xml:space="preserve">i</command>
-    <result xml:space="preserve">You are carrying nothing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>NO</changed>
-    <temporary score="18">YES</temporary>
-  </item>
-  <item nodeId="node-0x213660">
-    <command xml:space="preserve">ask typewriter about chicken</command>
-    <result xml:space="preserve">this is example
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="23">YES</temporary>
-    <children>
-      <child nodeId="node-0x213db0" />
-    </children>
-  </item>
-  <item nodeId="node-0x213db0">
-    <command xml:space="preserve">ask typewriter about Chicken</command>
-    <result xml:space="preserve">There is no reply.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="26">YES</temporary>
-    <children>
-      <child nodeId="node-0x213e20" />
-    </children>
-  </item>
-  <item nodeId="node-0x213e20">
-    <command xml:space="preserve">ask the dusty black typewriter about Chicken</command>
-    <result xml:space="preserve">There is no reply.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="26">YES</temporary>
-    <children>
-      <child nodeId="node-0x213e90" />
-    </children>
-  </item>
-  <item nodeId="node-0x213e90">
-    <command xml:space="preserve">ask about Chicken</command>
-    <result xml:space="preserve">chicken response
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="25">YES</temporary>
-  </item>
-  <item nodeId="node-0x213f00">
-    <command xml:space="preserve">look</command>
-    <result xml:space="preserve">Living Room
-You love the living room. You live in it.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="27">YES</temporary>
-    <children>
-      <child nodeId="node-0x213f70" />
-    </children>
-  </item>
-  <item nodeId="node-0x213f70">
-    <command xml:space="preserve">go up ladder</command>
-    <result xml:space="preserve">I only understood you as far as wanting to go up.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="27">YES</temporary>
-    <children>
-      <child nodeId="node-0x2135f0" />
-    </children>
-  </item>
-  <item nodeId="node-0x2135f0">
-    <command xml:space="preserve">ladder</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="27">YES</temporary>
-    <children>
-      <child nodeId="node-0x213580" />
-    </children>
-  </item>
-  <item nodeId="node-0x213580">
-    <command xml:space="preserve">x ladder</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="26">YES</temporary>
-  </item>
-  <item nodeId="node-0x213510">
-    <command xml:space="preserve">take typewriter</command>
-    <result xml:space="preserve">I don&apos;t suppose the dusty black typewriter would care for that.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="21">YES</temporary>
-  </item>
-  <item nodeId="node-0x2134a0">
-    <command xml:space="preserve">above</command>
-    <result xml:space="preserve">That&apos;s not a verb I recognise.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="23">YES</temporary>
-    <children>
-      <child nodeId="node-0x213430" />
-    </children>
-  </item>
-  <item nodeId="node-0x213430">
-    <command xml:space="preserve">go above</command>
-    <result xml:space="preserve">You can&apos;t see any such thing.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="23">YES</temporary>
-    <children>
-      <child nodeId="node-0x2133c0" />
-    </children>
-  </item>
-  <item nodeId="node-0x2133c0">
-    <command xml:space="preserve">go up</command>
-    <result xml:space="preserve">
-Attic
-You climb up the dusty ladder into the dark attic.
-
-&gt;</result>
-    <played>YES</played>
-    <changed>YES</changed>
-    <temporary score="23">YES</temporary>
-    <children>
-      <child nodeId="node-0x213350" />
-    </children>
-  </item>
-  <item nodeId="node-0x213350">
-    <command xml:space="preserve">down</command>
+  <item nodeId="node-0x967d9a0">
+    <command xml:space="preserve">sw</command>
     <result xml:space="preserve">
 Living Room
-You love the living room. You live in it.
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="23">YES</temporary>
+    <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2132e0" />
+      <child nodeId="node-0x16fd2c90" />
     </children>
   </item>
-  <item nodeId="node-0x2132e0">
-    <command xml:space="preserve">climb up</command>
-    <result xml:space="preserve">You must name something more substantial.
+  <item nodeId="node-0x16fd2c90">
+    <command xml:space="preserve">mix ink with spoon</command>
+    <result xml:space="preserve">You begin mixing the ink. It looks as if nothing is happening but you continue to mix despite observing this. After what seems like a long time, you take a closer look at the jar you&apos;re mixing and notice it is now labeled &quot;JAR OF MIXED INK&quot;. Perfect! Now you can put it on the table!
 
 &gt;</result>
     <played>YES</played>
     <changed>YES</changed>
-    <temporary score="22">YES</temporary>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x16d49290" />
+    </children>
+  </item>
+  <item nodeId="node-0x16d49290">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:
+  a jar of mixed ink
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="136">YES</temporary>
+    <children>
+      <child nodeId="node-0x16fee490" />
+    </children>
+  </item>
+  <item nodeId="node-0x16fee490">
+    <command xml:space="preserve">put jar of mixed on table</command>
+    <result xml:space="preserve">
+
+    *** cool ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="135">YES</temporary>
+  </item>
+  <item nodeId="node-0x69fb6e0">
+    <command xml:space="preserve">mix table with typewriter</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="119">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f60e60" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f60e60">
+    <command xml:space="preserve">mix table with typewriter</command>
+    <result xml:space="preserve">&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="118">YES</temporary>
+  </item>
+  <item nodeId="node-0x16f28890">
+    <command xml:space="preserve">x typewriter</command>
+    <result xml:space="preserve">The typewriter is coated with a thin layer of dust. Besides a few small scratches, the body of the typewriter is black as coal. A small stack of eggshell-colored stationery is placed in the typewriter&apos;s paper table. Its keys look worn and are a faded gold color. The keys need to be pushed very hard to type anything.
+
+Two papers have been printed out that you know you didn&apos;t type. It&apos;s as if the typewriter wrote it all by itself. The first paper is titled &quot;Instructions Paper&quot;. The second paper reads:
+
+Find me a shiny red alarm clock from the General Store. I need to use some of its parts.
+
+This has to have been written by the typewriter!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f5bf40" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f5bf40">
+    <command xml:space="preserve">read instructions paper</command>
+    <result xml:space="preserve">The paper is titled &quot;INSTRUCTIONS&quot; and reads: You can ask me about nearly anything. I don&apos;t guarantee that I will always give you an answer. I&apos;m here to help you learn, therefore, I do not wish to answer questions that ask questions like &quot;where is it?&quot; or &quot;what is it?&quot;. I much prefer to answer questions that ask about things. If you want to know what something is, then, ask me about what it is. If you want to know where something is, ask me about where it is.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f20c20" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f20c20">
+    <command xml:space="preserve">ask typewriter about alarm clock</command>
+    <result xml:space="preserve">There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16d62cd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16d62cd0">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Living Room
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xe27b910" />
+    </children>
+  </item>
+  <item nodeId="node-0xe27b910">
+    <command xml:space="preserve">x table</command>
+    <result xml:space="preserve">The table is made of dark oak wood. On the table is a typewriter.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x96c49e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x96c49e0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16fe3c00" />
+    </children>
+  </item>
+  <item nodeId="node-0x16fe3c00">
+    <command xml:space="preserve">talk to security guard</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x165755a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x165755a0">
+    <command xml:space="preserve">wake up the security guard</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16dbc3b0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16dbc3b0">
+    <command xml:space="preserve">x security guar</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f21630" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f21630">
+    <command xml:space="preserve">x security guard</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xe23daf0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe23daf0">
+    <command xml:space="preserve">open door</command>
+    <result xml:space="preserve">It isn&apos;t something you can open.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16fd5dc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16fd5dc0">
+    <command xml:space="preserve">enter general store</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16da2c30" />
+    </children>
+  </item>
+  <item nodeId="node-0x16da2c30">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Living Room
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xdaa9d50" />
+    </children>
+  </item>
+  <item nodeId="node-0xdaa9d50">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16ddd060" />
+    </children>
+  </item>
+  <item nodeId="node-0x16ddd060">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16ddd280" />
+    </children>
+  </item>
+  <item nodeId="node-0x16ddd280">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Back Porch
+The back porch of the Green House is covered in cobwebs. The air smells strongly of birds; if you closed your eyes you might think you were looking at flamingos at the zoo. The little grass that is on the ground is dead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xda79ac0" />
+    </children>
+  </item>
+  <item nodeId="node-0xda79ac0">
+    <command xml:space="preserve">x grass</command>
+    <result xml:space="preserve">The grass is mostly dead except for a few living blades of grass here and there. Lying on the grass is a wooden spoon.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16de53e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16de53e0">
+    <command xml:space="preserve">take wooden spoon</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16dc7cd0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16dc7cd0">
+    <command xml:space="preserve">x wooden spoon</command>
+    <result xml:space="preserve">The spoon is about as long as your hand and made of cheap wood. The handle of the spoon reads &quot;FOR USE WITH INK ONLY&quot;
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16de49e0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16de49e0">
+    <command xml:space="preserve">x cobwebs</command>
+    <result xml:space="preserve">Translucent white spider webs cover almost everything in the back porch of the green house.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16ff0180" />
+    </children>
+  </item>
+  <item nodeId="node-0x16ff0180">
+    <command xml:space="preserve">smell</command>
+    <result xml:space="preserve">You smell nothing unexpected.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16fbbb00" />
+    </children>
+  </item>
+  <item nodeId="node-0x16fbbb00">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16de5050" />
+    </children>
+  </item>
+  <item nodeId="node-0x16de5050">
+    <command xml:space="preserve">southwest</command>
+    <result xml:space="preserve">
+Living Room
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16da8af0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16da8af0">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16da5cc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16da5cc0">
+    <command xml:space="preserve">east</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f489d0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f489d0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16da5b10" />
+    </children>
+  </item>
+  <item nodeId="node-0x16da5b10">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Purple House
+The Purple House is the only other house on the street besides the Green House that is described by its owner&apos;s choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs Bloom.
+
+Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really likes to answer direct questions about things. Her first name is Marsa but she likes being called &quot;Mrs&quot; (with no dot) for short. She is working in front of the house.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xdae7a90" />
+    </children>
+  </item>
+  <item nodeId="node-0xdae7a90">
+    <command xml:space="preserve">talk to mrs bloom</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xda543e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xda543e0">
+    <command xml:space="preserve">ask mrs bloom about typewriter</command>
+    <result xml:space="preserve">There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16dc6060" />
+    </children>
+  </item>
+  <item nodeId="node-0x16dc6060">
+    <command xml:space="preserve">ask mrs bloom about green house</command>
+    <result xml:space="preserve">There is no reply.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16d7d440" />
+    </children>
+  </item>
+  <item nodeId="node-0x16d7d440">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xda57890" />
+    </children>
+  </item>
+  <item nodeId="node-0xda57890">
+    <command xml:space="preserve">ring bell</command>
+    <result xml:space="preserve">That&apos;s not a verb I recognise.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16fd4aa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16fd4aa0">
+    <command xml:space="preserve">x front door</command>
+    <result xml:space="preserve">The door is painted a drab brown color and protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Besides the bell attached to the doorknob, the only shine on the door is a bright red color on the top of the door.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16fe82a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16fe82a0">
+    <command xml:space="preserve">x color</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f96fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f96fa0">
+    <command xml:space="preserve">x bell</command>
+    <result xml:space="preserve">The bell is a faded gold color; it&apos;s drab like the rest of the door and the doorknob it&apos;s attached to.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f70310" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f70310">
+    <command xml:space="preserve">x top of door</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16da5fa0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16da5fa0">
+    <command xml:space="preserve">x bird poop</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16dd2660" />
+    </children>
+  </item>
+  <item nodeId="node-0x16dd2660">
+    <command xml:space="preserve">take alarm clock</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16dda640" />
+    </children>
+  </item>
+  <item nodeId="node-0x16dda640">
+    <command xml:space="preserve">x shine</command>
+    <result xml:space="preserve">Upon closer inspection of the bright red shine, you see the clock! It wasn&apos;t even in the store! You grab the clock and take it with you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f2d540" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f2d540">
+    <command xml:space="preserve">x bright shine</command>
+    <result xml:space="preserve">Upon closer inspection of the bright red shine, you see the clock! It wasn&apos;t even in the store! You grab the clock and take it with you.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f01310" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f01310">
+    <command xml:space="preserve">x bright color</command>
+    <result xml:space="preserve">I only understood you as far as wanting to examine the bright red shine.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16dd0a10" />
+    </children>
+  </item>
+  <item nodeId="node-0x16dd0a10">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and locks the door
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16db7830" />
+    </children>
+  </item>
+  <item nodeId="node-0x16db7830">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Living Room
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16fc9a50" />
+    </children>
+  </item>
+  <item nodeId="node-0x16fc9a50">
+    <command xml:space="preserve">give typewriter alarm clock</command>
+    <result xml:space="preserve">The typewriter clicks and clacks with joy. You have succeeded in your first mission. You may want to examine the typewriter closely once again
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f12d20" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f12d20">
+    <command xml:space="preserve">x typewriter</command>
+    <result xml:space="preserve">The typewriter is coated with a thin layer of dust. Besides a few small scratches, the body of the typewriter is black as coal. A small stack of eggshell-colored stationery is placed in the typewriter&apos;s paper table. Its keys look worn and are a faded gold color. The keys need to be pushed very hard to type anything.
+
+Another paper has been printed out that you know you didn&apos;t type. The paper reads:
+
+I need you to bring me purple ink. You will need to go to a house painted the same color. A house of a different color will tell you where to administer it to me. This house is the same house that I was purchased from. When you&apos;ve learned how to use the purple ink, return and do what you&apos;ve been taught.
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16d38500" />
+    </children>
+  </item>
+  <item nodeId="node-0x16d38500">
+    <command xml:space="preserve">northeast</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16fd1960" />
+    </children>
+  </item>
+  <item nodeId="node-0x16fd1960">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f19970" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f19970">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  a wooden spoon
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f22d00" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f22d00">
+    <command xml:space="preserve">x self</command>
+    <result xml:space="preserve">You&apos;re a journalist for your local newspaper. You can usually be found wearing a checkered jacket and a pair of glasses.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xdaddcd0" />
+    </children>
+  </item>
+  <item nodeId="node-0xdaddcd0">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xdaf5140" />
+    </children>
+  </item>
+  <item nodeId="node-0xdaf5140">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Purple House
+The Purple House is the only other house on the street besides the Green House that is described by its owner&apos;s choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs Bloom.
+
+Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really likes to answer direct questions about things. Her first name is Marsa but she likes being called &quot;Mrs&quot; (with no dot) for short. She is working in front of the house.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xdaf4230" />
+    </children>
+  </item>
+  <item nodeId="node-0xdaf4230">
+    <command xml:space="preserve">ask mrs bloom about ink</command>
+    <result xml:space="preserve">&quot;Oh, that reminds me!&quot;, she says, &quot;I have all this leftover purple ink from my custom dyed stationery paper and I was looking for somebody who might want to use it. You&apos;re a writer, right? Here, take it!&quot;
+
+She hands you a jar of purple ink. &quot;I&apos;ll see you later&quot;, she says as she continues her work.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16d96a60" />
+    </children>
+  </item>
+  <item nodeId="node-0x16d96a60">
+    <command xml:space="preserve">inventory</command>
+    <result xml:space="preserve">You are carrying:
+  a jar of purple ink
+  a wooden spoon
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f0afc0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f0afc0">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xdac9210" />
+    </children>
+  </item>
+  <item nodeId="node-0xdac9210">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f11050" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f11050">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">
+Back Porch
+The back porch of the Green House is covered in cobwebs. The air smells strongly of birds; if you closed your eyes you might think you were looking at flamingos at the zoo. The little grass that is on the ground is dead.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16dc0c90" />
+    </children>
+  </item>
+  <item nodeId="node-0x16dc0c90">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16d82ee0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16d82ee0">
+    <command xml:space="preserve">ask mr baker about ink</command>
+    <result xml:space="preserve">Ah, hello there. What did you say? Ah... never mind. I remember you from the garage sale. I meant to tell you something about your typewriter - particularly the ink. If you have purple ink, you need to get a special wooden spoon and mix the ink. After that, put the mixed ink on whatever surface your typewriter is on and it&apos;ll do the rest. You&apos;ll find a special spoon somewhere in my back porch. Feel free to take it.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16d7bf40" />
+    </children>
+  </item>
+  <item nodeId="node-0x16d7bf40">
+    <command xml:space="preserve">southwest</command>
+    <result xml:space="preserve">
+Living Room
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xda84610" />
+    </children>
+  </item>
+  <item nodeId="node-0xda84610">
+    <command xml:space="preserve">put ink on table</command>
+    <result xml:space="preserve">You put the jar of purple ink on the large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xdae61e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xdae61e0">
+    <command xml:space="preserve">take ink</command>
+    <result xml:space="preserve">Taken.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xe2093a0" />
+    </children>
+  </item>
+  <item nodeId="node-0xe2093a0">
+    <command xml:space="preserve">give typewriter ink</command>
+    <result xml:space="preserve">The dusty black typewriter doesn&apos;t seem interested.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f139a0" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f139a0">
+    <command xml:space="preserve">mix ink with spoon</command>
+    <result xml:space="preserve">You begin mixing the ink. It looks as if nothing is happening but you continue to mix despite observing this. After what seems like a long time, you take a closer look at the jar you&apos;re mixing and notice it is now labeled &quot;JAR OF MIXED INK&quot;. Perfect! Now you can put it on the table!
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16f06a40" />
+    </children>
+  </item>
+  <item nodeId="node-0x16f06a40">
+    <command xml:space="preserve">put ink on table</command>
+    <result xml:space="preserve">
+
+    *** The typewriter does not react after you place the mixed ink on the table. It does not click. It does not clack. Nothing happens. It&apos;s as if it&apos;s at peace. ***
+
+
+
+Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
+&gt; </result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xdaf14e0" />
+    </children>
+  </item>
+  <item nodeId="node-0xdaf14e0">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">
+
+
+You&apos;re driving home from work, tired from a long day of writing for your local newspaper. You notice a garage sale in a green house and decide to take a look at what&apos;s being sold. Nothing there interests you; it&apos;s mostly worn out books and ripped clothes. Just as you&apos;re ready to leave, a dusty black typewriter catches your eye. Mr Baker, the man running the garage sale, sells it to you for $5. You arrive home and put the typewriter on a large wooden table in your living room. You&apos;re intrigued by your new purchase but you&apos;re also exhausted from a nonstop work day. You examine the typewriter; a few sheets of paper are already placed in it and the ink is half full. After yawning one last time, you head up to bed.
+
+Ink
+An Interactive Fiction by Brennan
+Release 1 / Serial number 141024 / Inform 7 build 6L38 (I6/v6.33 lib 6/12N) SD
+
+Living Room
+Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xda3f020" />
+    </children>
+  </item>
+  <item nodeId="node-0xda3f020">
+    <command xml:space="preserve">nw</command>
+    <result xml:space="preserve">
+Purple House
+The Purple House is the only other house on the street besides the Green House that is described by its owner&apos;s choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs Bloom.
+
+Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really likes to answer direct questions about things. Her first name is Marsa but she likes being called &quot;Mrs&quot; (with no dot) for short. She is working in front of the house.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0x16de0050" />
+    </children>
+  </item>
+  <item nodeId="node-0x16de0050">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xe2c6b50" />
+    </children>
+  </item>
+  <item nodeId="node-0xe2c6b50">
+    <command xml:space="preserve">e</command>
+    <result xml:space="preserve">
+Green House
+You bought the typewriter at this house. It&apos;s called the &quot;Green House&quot; by your neighbors, presumably because the entire house is painted green.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xdae8980" />
+    </children>
+  </item>
+  <item nodeId="node-0xdae8980">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">
+Front of the General Store
+From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="218">YES</temporary>
+    <children>
+      <child nodeId="node-0xda68ca0" />
+    </children>
+  </item>
+  <item nodeId="node-0xda68ca0">
+    <command xml:space="preserve">e</command>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="217">YES</temporary>
   </item>
   <item nodeId="node-0x213270">
     <command xml:space="preserve">up</command>
@@ -1084,5 +2229,26 @@ You can see a ladder here.
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="50">YES</temporary>
+  </item>
+  <item nodeId="node-0x692d6b0">
+    <command xml:space="preserve">put booba on table</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="114">YES</temporary>
+    <children>
+      <child nodeId="node-0x691af20" />
+    </children>
+  </item>
+  <item nodeId="node-0x691af20">
+    <command xml:space="preserve">put the booba on the table</command>
+    <result xml:space="preserve">You can&apos;t see any such thing.
+
+&gt;</result>
+    <played>YES</played>
+    <changed>YES</changed>
+    <temporary score="113">YES</temporary>
   </item>
 </Skein>
