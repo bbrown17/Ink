@@ -1,5 +1,7 @@
 "Ink" by Brennan
 
+Release along with cover art ("A picture of a typewriter with text that says Ink by Brennan Brown")
+
 When play begins, say "You're driving home from work, tired from a long day of writing for your local newspaper. You notice a garage sale in a green house and decide to take a look at what's being sold. Nothing there interests you; it's mostly worn out books and ripped clothes. Just as you're ready to leave, a dusty black typewriter catches your eye. Mr Baker, the man running the garage sale, sells it to you for $5.
 You arrive home and put the typewriter on a large wooden table in your living room. You're intrigued by your new purchase but you're also exhausted from a nonstop work day. You examine the typewriter; a few sheets of paper are already placed in it and the ink is half full. After yawning one last time, you head up to bed."
 
@@ -79,7 +81,8 @@ Instead of asking the dusty black typewriter about "where the key is": say "You'
 [other names for the table]
 Understand "countertop" as the large wooden table. Understand "counter" as the large wooden table. Understand "wooden desk" as the large wooden table. Understand "big wooden table" as the large wooden table. Understand "big table" as the large wooden table.
 
-The Attic is above the Living Room. "The attic is dark and dusty. It seems to be about five feet tall so you have to crouch a little. There's no light besides the light leaking in from the Living Room below."
+The Attic is above the Living Room. "The attic is dark and dusty. It seems to be about five feet tall so you have to crouch a little. There's no light besides the light leaking in from the Living Room below. The only thing you can see is a"
+
 
 The Bedroom is south of the Living Room. "Your bedroom probably shouldn't be called that because it has no bed and barely any room. Moving boxes take up most of what little space there is in the room. On the floor is a small yellow mattress."
 
@@ -103,9 +106,11 @@ Instead of asking Mr Baker about something one time, say "Ah... I remember you f
 
 Instead of asking Mr Baker about something more than one time, say "Hey, I'm a busy old man. Just grab the spoon from my back porch, mix some ink, and put the ink on the same surface as your typewriter."
 
-The Front of the General Store is west of the Green House and north of the Living Room. "From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard, sleeping in the dark."
+The Front of the General Store is west of the Green House and north of the Living Room. "From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard inside of the store, sleeping in the dark."
 
-Instead of going nowhere from the General Store, say "You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and locks the door"
+Instead of going nowhere from the Front of the General Store, say "You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and closes the door."
+
+Instead of opening the Front Door, say "You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and closes the door."
 
 The Front Door is undescribed scenery in the Front of the General Store. The description is "The door is painted a drab brown color and protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Besides the bell attached to the doorknob, the only shine on the door is a bright red color on the top of the door."
 
@@ -115,7 +120,7 @@ The little bell is undescribed scenery in the Front of the General Store. The de
 
 The shiny red alarm clock is a thing in the Front Door. It is undescribed. The description is "The alarm clock looks like any other alarm clock. You do notice how shiny and red its exterior is, just like the typewriter said it would be. It's exactly what you needed!"
 
-The bright red shine is undescribed scenery in the Front of the General Store. The description is "Upon closer inspection of the bright red shine, you see the clock! It wasn't even in the store! You grab the clock and take it with you."
+The shiny bright red color shine is undescribed scenery in the Front of the General Store. The description is "Upon closer inspection of the bright red shine, you see the clock! It wasn't even in the store! You grab the clock and take it with you."
 
 The Purple House is west of the Front of the General Store and northwest of the Living Room. "The Purple House is the only other house on the street besides the Green House that is described by its owner's choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs Bloom.
 
