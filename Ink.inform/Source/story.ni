@@ -18,7 +18,7 @@ To say exit list:
 		let place be the room way from the location;
 		if place is a room, say "|[way]| ". 
 		
-[needs space after way to seperate directions. I figured this one out after a while.]
+[needs space after way to separate directions. I figured this one out after a while.]
 
 [going nowhere code from Day for Spelling - Mr. Kiang]
 [this alerts player that they're going the wrong way]
@@ -122,7 +122,11 @@ Instead of asking Mr Baker about something more than one time, say "Hey, I'm a b
 
 The Front of the General Store is west of the Yellow House and north of the Living Room. "From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard inside of the store, sleeping in the dark."
 
-Instead of going nowhere from the Front of the General Store, say "You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and closes the door."
+Instead of going nowhere from the Front of the General Store the first time, say "You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and closes the door."
+
+[ALTERNATE ENDING]
+Instead of going nowhere from the Front of the General Store the second time, end the story finally saying "You attempt to enter the locked store once again. The security guard is fully awake now. He gets up from his chair and pulls out handcuffs. You cry as he arrests you and walks you to the backseat of his police cruiser."
+
 
 Instead of opening the Front Door, say "You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and closes the door."
 
@@ -151,6 +155,8 @@ She hands you a jar of purple ink."; move the jar of purple ink to the player. I
 Instead of asking Mrs Bloom about "ink" one time: say "'Oh, that reminds me!', she says, 'I have all this leftover purple ink from my custom dyed stationery paper and I was looking for somebody who might want to use it. You're a writer, right? Here, take it!'
 
 She hands you a jar of purple ink. 'I'll see you later', she says as she continues her work."; move the jar of purple ink to the player. Instead of asking Mrs Bloom about "ink" more than one time: say "I'm busy now, sorry! You already have the jar of purple ink!"
+
+[These are all the possible ways people could ask for the ink (not repeated code)]
 
 Instead of asking Mrs Bloom about "the purple ink" one time: say "'Oh, that reminds me!', she says, 'I have all this leftover purple ink from my custom dyed stationery paper and I was looking for somebody who might want to use it. You're a writer, right? Here, take it!'
 
