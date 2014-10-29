@@ -2,10 +2,10 @@
 
 Release along with cover art ("A picture of a typewriter with text that says Ink by Brennan Brown")
 
-When play begins, say "You're driving home from work, tired from a long day of writing for your local newspaper. You notice a garage sale in a green house and decide to take a look at what's being sold. Nothing there interests you; it's mostly worn out books and ripped clothes. Just as you're ready to leave, a dusty black typewriter catches your eye. Mr Baker, the man running the garage sale, sells it to you for $5.
+When play begins, say "You're driving home from work, tired from a long day of writing for your local newspaper. You notice a garage sale in a yellow house and decide to take a look at what's being sold. Nothing there interests you; it's mostly worn out books and ripped clothes. Just as you're ready to leave, a dusty black typewriter catches your eye. Mr Baker, the man running the garage sale, sells it to you for $5.
 You arrive home and put the typewriter on a large wooden table in your living room. You're intrigued by your new purchase but you're also exhausted from a nonstop work day. You examine the typewriter; a few sheets of paper are already placed in it and the ink is half full. After yawning one last time, you head up to bed."
 
-The description of the player is "You're a journalist for your local newspaper. You can usually be found wearing a checkered jacket and a pair of glasses."
+The description of the player is "There's bags under your eyes from working late at your local newspaper as a journalist. Your eyes and hair are the same color - dark but not black."
 
 [exit list code from Day for Spelling - Mr. Kiang]
 When play begins:
@@ -27,7 +27,8 @@ Instead of going nowhere, say "Not every direction holds something of value. Go 
 [other names for the player]
 Understand "the player" as yourself. Understand "my reflection" as yourself. 
 Understand "player" as yourself. Understand "reflection" as yourself. 
-Understand "mirror" as yourself. Understand "shiny surface" as yourself.
+Understand "shiny surface" as yourself. Understand "the reflection" as yourself.
+Understand "your reflection" as yourself.
 
 [disable take all and custom take all error message code courtesy of Cole Damon]
 Rule for deciding whether all includes something: it does not.
@@ -81,32 +82,45 @@ Instead of asking the dusty black typewriter about "where the key is": say "You'
 [other names for the table]
 Understand "countertop" as the large wooden table. Understand "counter" as the large wooden table. Understand "wooden desk" as the large wooden table. Understand "big wooden table" as the large wooden table. Understand "big table" as the large wooden table.
 
-The Attic is above the Living Room. "The attic is dark and dusty. It seems to be about five feet tall so you have to crouch a little. There's no light besides the light leaking in from the Living Room below. The only thing you can see is a"
+The Attic is above the Living Room. "The attic is dark and dusty. It seems to be about five feet tall so you have to crouch a little. There's no light besides the light leaking in from the Living Room below. The only thing you can see is a flyer on the ground."
 
+The flyer on the ground is undescribed scenery in the Attic. The description is "The flyer looks dated; it's slightly wrinkled and covered in dust. It reads in large, plain text: TIME SHINES; BLOOM BEFORE MIXING."
 
-The Bedroom is south of the Living Room. "Your bedroom probably shouldn't be called that because it has no bed and barely any room. Moving boxes take up most of what little space there is in the room. On the floor is a small yellow mattress."
+Instead of taking the flyer on the ground, say "The flyer is pretty gross. If you took it downstairs you might get dust everywhere. You decide to leave it in the attic."
+
+The Bedroom is south of the Living Room. "Your bedroom probably shouldn't be called that because it has no real bed and barely any room. Moving boxes take up most of what little space there is in the room. On the floor is a small yellow mattress."
 
 The small yellow spring mattress is undescribed scenery in the Bedroom. The description is "The small yellow mattress lays on the floor of the Bedroom. It's a bit dusty. Its springs creak when you sit on it."
 
+The moving boxes is undescribed scenery in the Bedroom. The description is "The boxes are big and sealed tight with duct tape. You haven't unpacked the boxes yet because there's nothing inside them that you need."
+
+Understand "moving box" as moving boxes. Understand "box" as moving boxes.
+
+Instead of opening the moving boxes, say "You decide you'd rather not open the boxes."
+
 Understand "the bed" as the small yellow spring mattress.
 
-The Back Porch is north of the Green House. "The back porch of the Green House is covered in cobwebs. The air smells strongly of birds; if you closed your eyes you might think you were looking at flamingos at the zoo. The little grass that is on the ground is dead."
+The Bathroom is east of the Bedroom. "The bathroom is smaller than any other room in the house. You can see a mirror in front of you."
 
-The spider web cobwebs is scenery in the Back Porch. It is undescribed. The description is "Translucent white spider webs cover almost everything in the back porch of the green house."
+The mirror is undescribed scenery in the Bathroom. The description is "The mirror's glass is scratched but you can still see your reflection"
+
+The Back Porch is north of the Yellow House. "The back porch of the Yellow House is covered in cobwebs. The air smells strongly of birds; if you closed your eyes you might think you were looking at flamingos at the zoo. The little grass that is on the ground is dead."
+
+The spider web cobwebs is scenery in the Back Porch. It is undescribed. The description is "Translucent white spider webs cover almost everything in the back porch of the yellow house."
 
 The little dead brown grass is undescribed scenery in the Back Porch. The description is "The grass is mostly dead except for a few living blades of grass here and there. Lying on the grass is a wooden spoon."
 
 The wooden spoon is a thing in the Back Porch. It is undescribed. The description is "The spoon is about as long as your hand and made of cheap wood. The handle of the spoon reads 'FOR USE WITH INK ONLY'"
 
-The Green House is east of the Front of the General Store and northeast of the Living Room. "You bought the typewriter at this house. It's called the 'Green House' by your neighbors, presumably because the entire house is painted green. Mr Baker is in the front of his house."
+The Yellow House is east of the Front of the General Store and northeast of the Living Room. "You bought the typewriter at this house. It's called the 'Yellow House' by your neighbors, presumably because the entire house is painted yellow. Mr Baker is in the front of his house."
 
-Mr Baker is a male person in the Green House. It is undescribed. The description is "Mr Baker is the old man who sold you the typewriter. Some say that he's lived in his green house before the color green was even named."
+Mr Baker is a male person in the Yellow House. It is undescribed. The description is "Mr Baker is the old man who sold you the typewriter. Some say that he's lived in his yellow house before the color yellow was even named."
 
 Instead of asking Mr Baker about something one time, say "Ah... I remember you from the garage sale. I meant to tell you something about your typewriter - particularly the ink. If you have purple ink, you need to get a special wooden spoon and mix the ink. After that, put the mixed ink on whatever surface your typewriter is on and it'll do the rest. You'll find a special spoon somewhere in my back porch. Feel free to take it."
 
 Instead of asking Mr Baker about something more than one time, say "Hey, I'm a busy old man. Just grab the spoon from my back porch, mix some ink, and put the ink on the same surface as your typewriter."
 
-The Front of the General Store is west of the Green House and north of the Living Room. "From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard inside of the store, sleeping in the dark."
+The Front of the General Store is west of the Yellow House and north of the Living Room. "From where you stand in front of the General Store, it looks like something out of the 1950s. A little bell is tied with a string to the doorknob of its front door. The front door protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Through the big windows at the front of the store you can see a security guard inside of the store, sleeping in the dark."
 
 Instead of going nowhere from the Front of the General Store, say "You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and closes the door."
 
@@ -122,9 +136,9 @@ The shiny red alarm clock is a thing in the Front Door. It is undescribed. The d
 
 The shiny bright red color shine is undescribed scenery in the Front of the General Store. The description is "Upon closer inspection of the bright red shine, you see the clock! It wasn't even in the store! You grab the clock and take it with you."
 
-The Purple House is west of the Front of the General Store and northwest of the Living Room. "The Purple House is the only other house on the street besides the Green House that is described by its owner's choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs Bloom.
+The Purple House is west of the Front of the General Store and northwest of the Living Room. "The Purple House is the only other house on the street besides the Yellow House that is described by its owner's choice of paint color. The house is small and plump like the woman who has lived there for longer than anybody can remember, Mrs Bloom.
 
-Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really likes to answer direct questions about things. Her first name is Marsa but she likes being called 'Mrs' (with no dot) for short. She is working in front of the house."
+Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really likes to answer direct questions about things. Her first name is Marsa but she likes being called 'Mrs' (with no dot) for short. She is working in front of the house. Her Father was a painter so she loves talking about ink."
 
 Mrs Bloom is a female person in the Purple House. It is undescribed. The description is "Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really likes to answer direct questions about things. Her first name is Marsa but she likes being called 'Mrs' (with no dot) for short."
 
