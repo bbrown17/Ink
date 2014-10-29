@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<Skein rootNode="node-0x2ecfc0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
+<Skein rootNode="node-0x3981b0" xmlns="http://www.logicalshift.org.uk/IF/Skein">
   <generator>Zoom</generator>
-  <activeNode nodeId="node-0x16c3a0" />
-  <item nodeId="node-0x2ecfc0">
+  <activeNode nodeId="node-0x3981b0" />
+  <item nodeId="node-0x3981b0">
     <command xml:space="preserve">- start -</command>
     <result xml:space="preserve">
 
@@ -21,21 +21,21 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="4">NO</temporary>
     <children>
-      <child nodeId="node-0x69034d0" />
-      <child nodeId="node-0x2f07a0" />
-      <child nodeId="node-0x2ef8c0" />
-      <child nodeId="node-0x2ed060" />
-      <child nodeId="node-0x2f01f0" />
-      <child nodeId="node-0x2ef3f0" />
-      <child nodeId="node-0x2ef4d0" />
-      <child nodeId="node-0x2ed2c0" />
-      <child nodeId="node-0x2ed4c0" />
-      <child nodeId="node-0x2f0180" />
-      <child nodeId="node-0x2f0030" />
-      <child nodeId="node-0x2ed660" />
+      <child nodeId="node-0x1f62340" />
+      <child nodeId="node-0x1f613f0" />
+      <child nodeId="node-0x1f60c80" />
+      <child nodeId="node-0x1f60a50" />
+      <child nodeId="node-0x1f604a0" />
+      <child nodeId="node-0x1f603c0" />
+      <child nodeId="node-0x1f5ffd0" />
+      <child nodeId="node-0x1f5fe10" />
+      <child nodeId="node-0x1f5fd30" />
+      <child nodeId="node-0x1f5fcc0" />
+      <child nodeId="node-0x1f5fb70" />
+      <child nodeId="node-0x398220" />
     </children>
   </item>
-  <item nodeId="node-0x2ed660">
+  <item nodeId="node-0x398220">
     <command xml:space="preserve">x typewriter</command>
     <result xml:space="preserve">The typewriter is coated with a thin layer of dust. Besides a few small scratches, the body of the typewriter is black as coal. A small stack of eggshell-colored stationery is placed in the typewriter&apos;s paper table. Its keys look worn and are a faded gold color. The keys need to be pushed very hard to type anything.
 
@@ -50,10 +50,10 @@ This has to have been written by the typewriter!
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed350" />
+      <child nodeId="node-0x398270" />
     </children>
   </item>
-  <item nodeId="node-0x2ed350">
+  <item nodeId="node-0x398270">
     <command xml:space="preserve">read instructions paper</command>
     <result xml:space="preserve">The paper is titled &quot;INSTRUCTIONS&quot; and reads: You can ask me about nearly anything. I don&apos;t guarantee that I will always give you an answer. I&apos;m here to help you learn, therefore, I do not wish to answer questions that ask questions like &quot;where is it?&quot; or &quot;what is it?&quot;. I much prefer to answer questions that ask about things. If you want to know what something is, then, ask me about what it is. If you want to know where something is, ask me about where it is.
 
@@ -62,10 +62,10 @@ This has to have been written by the typewriter!
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed6d0" />
+      <child nodeId="node-0x3982c0" />
     </children>
   </item>
-  <item nodeId="node-0x2ed6d0">
+  <item nodeId="node-0x3982c0">
     <command xml:space="preserve">ask typewriter about alarm clock</command>
     <result xml:space="preserve">There is no reply.
 
@@ -74,10 +74,10 @@ This has to have been written by the typewriter!
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed740" />
+      <child nodeId="node-0x398330" />
     </children>
   </item>
-  <item nodeId="node-0x2ed740">
+  <item nodeId="node-0x398330">
     <command xml:space="preserve">l</command>
     <result xml:space="preserve">Living Room
 Your living room is very clean, but, only because you just moved into this house a few weeks ago. A dusty black typewriter sits on a large wooden table.
@@ -87,10 +87,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed7b0" />
+      <child nodeId="node-0x3983a0" />
     </children>
   </item>
-  <item nodeId="node-0x2ed7b0">
+  <item nodeId="node-0x3983a0">
     <command xml:space="preserve">x table</command>
     <result xml:space="preserve">The table is made of dark oak wood. On the table is a typewriter.
 
@@ -99,10 +99,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed820" />
+      <child nodeId="node-0x398410" />
     </children>
   </item>
-  <item nodeId="node-0x2ed820">
+  <item nodeId="node-0x398410">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -113,10 +113,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed890" />
+      <child nodeId="node-0x1f5e020" />
     </children>
   </item>
-  <item nodeId="node-0x2ed890">
+  <item nodeId="node-0x1f5e020">
     <command xml:space="preserve">talk to security guard</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -125,10 +125,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed900" />
+      <child nodeId="node-0x1f5e070" />
     </children>
   </item>
-  <item nodeId="node-0x2ed900">
+  <item nodeId="node-0x1f5e070">
     <command xml:space="preserve">wake up the security guard</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -137,10 +137,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed5a0" />
+      <child nodeId="node-0x1f5e0c0" />
     </children>
   </item>
-  <item nodeId="node-0x2ed5a0">
+  <item nodeId="node-0x1f5e0c0">
     <command xml:space="preserve">x security guar</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -149,10 +149,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed5f0" />
+      <child nodeId="node-0x1f5e110" />
     </children>
   </item>
-  <item nodeId="node-0x2ed5f0">
+  <item nodeId="node-0x1f5e110">
     <command xml:space="preserve">x security guard</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -161,10 +161,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2edaf0" />
+      <child nodeId="node-0x1f5e180" />
     </children>
   </item>
-  <item nodeId="node-0x2edaf0">
+  <item nodeId="node-0x1f5e180">
     <command xml:space="preserve">open door</command>
     <result xml:space="preserve">It isn&apos;t something you can open.
 
@@ -173,10 +173,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2edb60" />
+      <child nodeId="node-0x1f5e2b0" />
     </children>
   </item>
-  <item nodeId="node-0x2edb60">
+  <item nodeId="node-0x1f5e2b0">
     <command xml:space="preserve">enter general store</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -185,10 +185,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2edbd0" />
+      <child nodeId="node-0x3984a0" />
     </children>
   </item>
-  <item nodeId="node-0x2edbd0">
+  <item nodeId="node-0x3984a0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Living Room
@@ -199,10 +199,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2edc40" />
+      <child nodeId="node-0x1f5e320" />
     </children>
   </item>
-  <item nodeId="node-0x2edc40">
+  <item nodeId="node-0x1f5e320">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -213,10 +213,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2edcb0" />
+      <child nodeId="node-0x1f5e390" />
     </children>
   </item>
-  <item nodeId="node-0x2edcb0">
+  <item nodeId="node-0x1f5e390">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Green House
@@ -227,10 +227,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2edd20" />
+      <child nodeId="node-0x1f5e400" />
     </children>
   </item>
-  <item nodeId="node-0x2edd20">
+  <item nodeId="node-0x1f5e400">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Back Porch
@@ -241,10 +241,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2edd90" />
+      <child nodeId="node-0x1f5e470" />
     </children>
   </item>
-  <item nodeId="node-0x2edd90">
+  <item nodeId="node-0x1f5e470">
     <command xml:space="preserve">x grass</command>
     <result xml:space="preserve">The grass is mostly dead except for a few living blades of grass here and there. Lying on the grass is a wooden spoon.
 
@@ -253,10 +253,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ede00" />
+      <child nodeId="node-0x1f5e4e0" />
     </children>
   </item>
-  <item nodeId="node-0x2ede00">
+  <item nodeId="node-0x1f5e4e0">
     <command xml:space="preserve">take wooden spoon</command>
     <result xml:space="preserve">Taken.
 
@@ -265,10 +265,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ede70" />
+      <child nodeId="node-0x1f5e550" />
     </children>
   </item>
-  <item nodeId="node-0x2ede70">
+  <item nodeId="node-0x1f5e550">
     <command xml:space="preserve">x wooden spoon</command>
     <result xml:space="preserve">The spoon is about as long as your hand and made of cheap wood. The handle of the spoon reads &quot;FOR USE WITH INK ONLY&quot;
 
@@ -277,10 +277,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2edee0" />
+      <child nodeId="node-0x1f5e1f0" />
     </children>
   </item>
-  <item nodeId="node-0x2edee0">
+  <item nodeId="node-0x1f5e1f0">
     <command xml:space="preserve">x cobwebs</command>
     <result xml:space="preserve">Translucent white spider webs cover almost everything in the back porch of the green house.
 
@@ -289,10 +289,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2edf50" />
+      <child nodeId="node-0x1f5e240" />
     </children>
   </item>
-  <item nodeId="node-0x2edf50">
+  <item nodeId="node-0x1f5e240">
     <command xml:space="preserve">smell</command>
     <result xml:space="preserve">You smell nothing unexpected.
 
@@ -301,10 +301,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed970" />
+      <child nodeId="node-0x1f5e740" />
     </children>
   </item>
-  <item nodeId="node-0x2ed970">
+  <item nodeId="node-0x1f5e740">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Green House
@@ -315,10 +315,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed9e0" />
+      <child nodeId="node-0x1f5e7b0" />
     </children>
   </item>
-  <item nodeId="node-0x2ed9e0">
+  <item nodeId="node-0x1f5e7b0">
     <command xml:space="preserve">southwest</command>
     <result xml:space="preserve">
 Living Room
@@ -329,10 +329,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eda50" />
+      <child nodeId="node-0x1f5e820" />
     </children>
   </item>
-  <item nodeId="node-0x2eda50">
+  <item nodeId="node-0x1f5e820">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -343,10 +343,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee200" />
+      <child nodeId="node-0x1f5e890" />
     </children>
   </item>
-  <item nodeId="node-0x2ee200">
+  <item nodeId="node-0x1f5e890">
     <command xml:space="preserve">east</command>
     <result xml:space="preserve">
 Green House
@@ -357,10 +357,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee270" />
+      <child nodeId="node-0x1f5e900" />
     </children>
   </item>
-  <item nodeId="node-0x2ee270">
+  <item nodeId="node-0x1f5e900">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -371,10 +371,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee2e0" />
+      <child nodeId="node-0x1f5e970" />
     </children>
   </item>
-  <item nodeId="node-0x2ee2e0">
+  <item nodeId="node-0x1f5e970">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Purple House
@@ -387,10 +387,10 @@ Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really li
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee350" />
+      <child nodeId="node-0x1f5e9e0" />
     </children>
   </item>
-  <item nodeId="node-0x2ee350">
+  <item nodeId="node-0x1f5e9e0">
     <command xml:space="preserve">talk to mrs bloom</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -399,10 +399,10 @@ Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really li
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee3c0" />
+      <child nodeId="node-0x1f5ea50" />
     </children>
   </item>
-  <item nodeId="node-0x2ee3c0">
+  <item nodeId="node-0x1f5ea50">
     <command xml:space="preserve">ask mrs bloom about typewriter</command>
     <result xml:space="preserve">There is no reply.
 
@@ -411,10 +411,10 @@ Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really li
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee430" />
+      <child nodeId="node-0x1f5eac0" />
     </children>
   </item>
-  <item nodeId="node-0x2ee430">
+  <item nodeId="node-0x1f5eac0">
     <command xml:space="preserve">ask mrs bloom about green house</command>
     <result xml:space="preserve">There is no reply.
 
@@ -423,10 +423,10 @@ Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really li
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee4a0" />
+      <child nodeId="node-0x1f5eb30" />
     </children>
   </item>
-  <item nodeId="node-0x2ee4a0">
+  <item nodeId="node-0x1f5eb30">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -437,10 +437,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee510" />
+      <child nodeId="node-0x1f5eba0" />
     </children>
   </item>
-  <item nodeId="node-0x2ee510">
+  <item nodeId="node-0x1f5eba0">
     <command xml:space="preserve">ring bell</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -449,10 +449,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee580" />
+      <child nodeId="node-0x1f5e5c0" />
     </children>
   </item>
-  <item nodeId="node-0x2ee580">
+  <item nodeId="node-0x1f5e5c0">
     <command xml:space="preserve">x front door</command>
     <result xml:space="preserve">The door is painted a drab brown color and protrudes out from the store almost like a tunnel; the top of the door is covered in bird poop and something shiny. Besides the bell attached to the doorknob, the only shine on the door is a bright red color on the top of the door.
 
@@ -461,10 +461,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee5f0" />
+      <child nodeId="node-0x1f5e630" />
     </children>
   </item>
-  <item nodeId="node-0x2ee5f0">
+  <item nodeId="node-0x1f5e630">
     <command xml:space="preserve">x color</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -473,10 +473,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee660" />
+      <child nodeId="node-0x1f5e6a0" />
     </children>
   </item>
-  <item nodeId="node-0x2ee660">
+  <item nodeId="node-0x1f5e6a0">
     <command xml:space="preserve">x bell</command>
     <result xml:space="preserve">The bell is a faded gold color; it&apos;s drab like the rest of the door and the doorknob it&apos;s attached to.
 
@@ -485,10 +485,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee6d0" />
+      <child nodeId="node-0x1f5ee50" />
     </children>
   </item>
-  <item nodeId="node-0x2ee6d0">
+  <item nodeId="node-0x1f5ee50">
     <command xml:space="preserve">x top of door</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -497,10 +497,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee740" />
+      <child nodeId="node-0x1f5eec0" />
     </children>
   </item>
-  <item nodeId="node-0x2ee740">
+  <item nodeId="node-0x1f5eec0">
     <command xml:space="preserve">x bird poop</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -509,10 +509,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee7b0" />
+      <child nodeId="node-0x1f5ef30" />
     </children>
   </item>
-  <item nodeId="node-0x2ee7b0">
+  <item nodeId="node-0x1f5ef30">
     <command xml:space="preserve">take alarm clock</command>
     <result xml:space="preserve">Taken.
 
@@ -521,10 +521,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee820" />
+      <child nodeId="node-0x1f5efa0" />
     </children>
   </item>
-  <item nodeId="node-0x2ee820">
+  <item nodeId="node-0x1f5efa0">
     <command xml:space="preserve">x shine</command>
     <result xml:space="preserve">Upon closer inspection of the bright red shine, you see the clock! It wasn&apos;t even in the store! You grab the clock and take it with you.
 
@@ -533,10 +533,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee890" />
+      <child nodeId="node-0x1f5f010" />
     </children>
   </item>
-  <item nodeId="node-0x2ee890">
+  <item nodeId="node-0x1f5f010">
     <command xml:space="preserve">x bright shine</command>
     <result xml:space="preserve">Upon closer inspection of the bright red shine, you see the clock! It wasn&apos;t even in the store! You grab the clock and take it with you.
 
@@ -545,10 +545,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee900" />
+      <child nodeId="node-0x1f5f080" />
     </children>
   </item>
-  <item nodeId="node-0x2ee900">
+  <item nodeId="node-0x1f5f080">
     <command xml:space="preserve">x bright color</command>
     <result xml:space="preserve">I only understood you as far as wanting to examine the bright red shine.
 
@@ -557,10 +557,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2edfc0" />
+      <child nodeId="node-0x1f5f0f0" />
     </children>
   </item>
-  <item nodeId="node-0x2edfc0">
+  <item nodeId="node-0x1f5f0f0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and locks the door
 &gt;</result>
@@ -568,10 +568,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee030" />
+      <child nodeId="node-0x1f5f160" />
     </children>
   </item>
-  <item nodeId="node-0x2ee030">
+  <item nodeId="node-0x1f5f160">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Living Room
@@ -582,10 +582,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee0a0" />
+      <child nodeId="node-0x1f5f1d0" />
     </children>
   </item>
-  <item nodeId="node-0x2ee0a0">
+  <item nodeId="node-0x1f5f1d0">
     <command xml:space="preserve">give typewriter alarm clock</command>
     <result xml:space="preserve">The typewriter clicks and clacks with joy. You have succeeded in your first mission. You may want to examine the typewriter closely once again
 &gt;</result>
@@ -593,10 +593,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee110" />
+      <child nodeId="node-0x1f5f240" />
     </children>
   </item>
-  <item nodeId="node-0x2ee110">
+  <item nodeId="node-0x1f5f240">
     <command xml:space="preserve">x typewriter</command>
     <result xml:space="preserve">The typewriter is coated with a thin layer of dust. Besides a few small scratches, the body of the typewriter is black as coal. A small stack of eggshell-colored stationery is placed in the typewriter&apos;s paper table. Its keys look worn and are a faded gold color. The keys need to be pushed very hard to type anything.
 
@@ -608,10 +608,10 @@ I need you to bring me purple ink. You will need to go to a house painted the sa
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee180" />
+      <child nodeId="node-0x1f5f2b0" />
     </children>
   </item>
-  <item nodeId="node-0x2ee180">
+  <item nodeId="node-0x1f5f2b0">
     <command xml:space="preserve">northeast</command>
     <result xml:space="preserve">
 Green House
@@ -622,10 +622,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee970" />
+      <child nodeId="node-0x1f5f320" />
     </children>
   </item>
-  <item nodeId="node-0x2ee970">
+  <item nodeId="node-0x1f5f320">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
 
@@ -634,10 +634,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ee9e0" />
+      <child nodeId="node-0x1f5f390" />
     </children>
   </item>
-  <item nodeId="node-0x2ee9e0">
+  <item nodeId="node-0x1f5f390">
     <command xml:space="preserve">inventory</command>
     <result xml:space="preserve">You are carrying:
   a wooden spoon
@@ -647,10 +647,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eea50" />
+      <child nodeId="node-0x1f5f400" />
     </children>
   </item>
-  <item nodeId="node-0x2eea50">
+  <item nodeId="node-0x1f5f400">
     <command xml:space="preserve">x self</command>
     <result xml:space="preserve">You&apos;re a journalist for your local newspaper. You can usually be found wearing a checkered jacket and a pair of glasses.
 
@@ -659,10 +659,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eeac0" />
+      <child nodeId="node-0x1f5f470" />
     </children>
   </item>
-  <item nodeId="node-0x2eeac0">
+  <item nodeId="node-0x1f5f470">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -673,10 +673,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eeb30" />
+      <child nodeId="node-0x1f5f4e0" />
     </children>
   </item>
-  <item nodeId="node-0x2eeb30">
+  <item nodeId="node-0x1f5f4e0">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Purple House
@@ -689,10 +689,10 @@ Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really li
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eeba0" />
+      <child nodeId="node-0x1f5f550" />
     </children>
   </item>
-  <item nodeId="node-0x2eeba0">
+  <item nodeId="node-0x1f5f550">
     <command xml:space="preserve">ask mrs bloom about ink</command>
     <result xml:space="preserve">&quot;Oh, that reminds me!&quot;, she says, &quot;I have all this leftover purple ink from my custom dyed stationery paper and I was looking for somebody who might want to use it. You&apos;re a writer, right? Here, take it!&quot;
 
@@ -703,10 +703,10 @@ She hands you a jar of purple ink. &quot;I&apos;ll see you later&quot;, she says
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eec10" />
+      <child nodeId="node-0x1f5ec10" />
     </children>
   </item>
-  <item nodeId="node-0x2eec10">
+  <item nodeId="node-0x1f5ec10">
     <command xml:space="preserve">inventory</command>
     <result xml:space="preserve">You are carrying:
   a jar of purple ink
@@ -717,10 +717,10 @@ She hands you a jar of purple ink. &quot;I&apos;ll see you later&quot;, she says
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eec80" />
+      <child nodeId="node-0x1f5ec80" />
     </children>
   </item>
-  <item nodeId="node-0x2eec80">
+  <item nodeId="node-0x1f5ec80">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -731,10 +731,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eecf0" />
+      <child nodeId="node-0x1f5ecf0" />
     </children>
   </item>
-  <item nodeId="node-0x2eecf0">
+  <item nodeId="node-0x1f5ecf0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Green House
@@ -745,10 +745,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eed60" />
+      <child nodeId="node-0x1f5ed60" />
     </children>
   </item>
-  <item nodeId="node-0x2eed60">
+  <item nodeId="node-0x1f5ed60">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Back Porch
@@ -759,10 +759,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eedd0" />
+      <child nodeId="node-0x1f5edd0" />
     </children>
   </item>
-  <item nodeId="node-0x2eedd0">
+  <item nodeId="node-0x1f5edd0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Green House
@@ -773,10 +773,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eee40" />
+      <child nodeId="node-0x1f5f5c0" />
     </children>
   </item>
-  <item nodeId="node-0x2eee40">
+  <item nodeId="node-0x1f5f5c0">
     <command xml:space="preserve">ask mr baker about ink</command>
     <result xml:space="preserve">Ah, hello there. What did you say? Ah... never mind. I remember you from the garage sale. I meant to tell you something about your typewriter - particularly the ink. If you have purple ink, you need to get a special wooden spoon and mix the ink. After that, put the mixed ink on whatever surface your typewriter is on and it&apos;ll do the rest. You&apos;ll find a special spoon somewhere in my back porch. Feel free to take it.
 
@@ -785,10 +785,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eeeb0" />
+      <child nodeId="node-0x1f5f630" />
     </children>
   </item>
-  <item nodeId="node-0x2eeeb0">
+  <item nodeId="node-0x1f5f630">
     <command xml:space="preserve">southwest</command>
     <result xml:space="preserve">
 Living Room
@@ -799,10 +799,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eef20" />
+      <child nodeId="node-0x1f5f6a0" />
     </children>
   </item>
-  <item nodeId="node-0x2eef20">
+  <item nodeId="node-0x1f5f6a0">
     <command xml:space="preserve">put ink on table</command>
     <result xml:space="preserve">You put the jar of purple ink on the large wooden table.
 
@@ -811,10 +811,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2eef90" />
+      <child nodeId="node-0x1f5f710" />
     </children>
   </item>
-  <item nodeId="node-0x2eef90">
+  <item nodeId="node-0x1f5f710">
     <command xml:space="preserve">take ink</command>
     <result xml:space="preserve">Taken.
 
@@ -823,10 +823,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef000" />
+      <child nodeId="node-0x1f5f780" />
     </children>
   </item>
-  <item nodeId="node-0x2ef000">
+  <item nodeId="node-0x1f5f780">
     <command xml:space="preserve">give typewriter ink</command>
     <result xml:space="preserve">The dusty black typewriter doesn&apos;t seem interested.
 
@@ -835,10 +835,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef070" />
+      <child nodeId="node-0x1f5f7f0" />
     </children>
   </item>
-  <item nodeId="node-0x2ef070">
+  <item nodeId="node-0x1f5f7f0">
     <command xml:space="preserve">mix ink with spoon</command>
     <result xml:space="preserve">You begin mixing the ink. It looks as if nothing is happening but you continue to mix despite observing this. After what seems like a long time, you take a closer look at the jar you&apos;re mixing and notice it is now labeled &quot;JAR OF MIXED INK&quot;. Perfect! Now you can put it on the table!
 
@@ -847,10 +847,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef0e0" />
+      <child nodeId="node-0x1f5f860" />
     </children>
   </item>
-  <item nodeId="node-0x2ef0e0">
+  <item nodeId="node-0x1f5f860">
     <command xml:space="preserve">put ink on table</command>
     <result xml:space="preserve">
 
@@ -864,10 +864,10 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef150" />
+      <child nodeId="node-0x1f5f8d0" />
     </children>
   </item>
-  <item nodeId="node-0x2ef150">
+  <item nodeId="node-0x1f5f8d0">
     <command xml:space="preserve">restart</command>
     <result xml:space="preserve">
 
@@ -886,10 +886,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef1c0" />
+      <child nodeId="node-0x1f5f940" />
     </children>
   </item>
-  <item nodeId="node-0x2ef1c0">
+  <item nodeId="node-0x1f5f940">
     <command xml:space="preserve">nw</command>
     <result xml:space="preserve">
 Purple House
@@ -902,10 +902,10 @@ Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really li
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef230" />
+      <child nodeId="node-0x1f5f9b0" />
     </children>
   </item>
-  <item nodeId="node-0x2ef230">
+  <item nodeId="node-0x1f5f9b0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -916,10 +916,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef2a0" />
+      <child nodeId="node-0x1f5fa20" />
     </children>
   </item>
-  <item nodeId="node-0x2ef2a0">
+  <item nodeId="node-0x1f5fa20">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Green House
@@ -930,10 +930,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef310" />
+      <child nodeId="node-0x1f5fa90" />
     </children>
   </item>
-  <item nodeId="node-0x2ef310">
+  <item nodeId="node-0x1f5fa90">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -944,16 +944,16 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="218">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef380" />
+      <child nodeId="node-0x1f5fb00" />
     </children>
   </item>
-  <item nodeId="node-0x2ef380">
+  <item nodeId="node-0x1f5fb00">
     <command xml:space="preserve">e</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="217">YES</temporary>
   </item>
-  <item nodeId="node-0x2f0030">
+  <item nodeId="node-0x1f5fb70">
     <command xml:space="preserve">ask about topic 1</command>
     <result xml:space="preserve">You hear a faint hum. The typewriter begins to rattle, slowly at first then faster and faster. The paper starts to move on its own. The keys are clacking loudly like rain hitting the pavement.
 
@@ -962,10 +962,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="36">YES</temporary>
     <children>
-      <child nodeId="node-0x2f00a0" />
+      <child nodeId="node-0x1f5fbe0" />
     </children>
   </item>
-  <item nodeId="node-0x2f00a0">
+  <item nodeId="node-0x1f5fbe0">
     <command xml:space="preserve">ask about topic a</command>
     <result xml:space="preserve">You hear a faint hum. The typewriter begins to rattle, slowly at first then faster and faster. The paper starts to move on its own. The keys are clacking loudly like rain hitting the pavement.
 
@@ -976,10 +976,10 @@ topic a response
     <changed>YES</changed>
     <temporary score="36">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0110" />
+      <child nodeId="node-0x1f5fc50" />
     </children>
   </item>
-  <item nodeId="node-0x2f0110">
+  <item nodeId="node-0x1f5fc50">
     <command xml:space="preserve">ask about chicken</command>
     <result xml:space="preserve">You hear a faint hum. The typewriter begins to rattle, slowly at first then faster and faster. The paper starts to move on its own. The keys are clacking loudly like rain hitting the pavement.
 
@@ -988,7 +988,7 @@ topic a response
     <changed>YES</changed>
     <temporary score="35">YES</temporary>
   </item>
-  <item nodeId="node-0x2f0180">
+  <item nodeId="node-0x1f5fcc0">
     <command xml:space="preserve">mix</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -997,34 +997,34 @@ topic a response
     <changed>YES</changed>
     <temporary score="114">YES</temporary>
   </item>
-  <item nodeId="node-0x2ed4c0">
+  <item nodeId="node-0x1f5fd30">
     <command xml:space="preserve">mix table with typewriter</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="119">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed530" />
+      <child nodeId="node-0x1f5fda0" />
     </children>
   </item>
-  <item nodeId="node-0x2ed530">
+  <item nodeId="node-0x1f5fda0">
     <command xml:space="preserve">mix table with typewriter</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="118">YES</temporary>
   </item>
-  <item nodeId="node-0x2ed2c0">
+  <item nodeId="node-0x1f5fe10">
     <command xml:space="preserve">ask about chicken</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="40">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed3b0" />
+      <child nodeId="node-0x1f5fe80" />
     </children>
   </item>
-  <item nodeId="node-0x2ed3b0">
+  <item nodeId="node-0x1f5fe80">
     <command xml:space="preserve">ask typewriter about chicken</command>
     <result xml:space="preserve">There is no reply.
 
@@ -1033,26 +1033,26 @@ topic a response
     <changed>YES</changed>
     <temporary score="40">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed400" />
+      <child nodeId="node-0x1f5fef0" />
     </children>
   </item>
-  <item nodeId="node-0x2ed400">
+  <item nodeId="node-0x1f5fef0">
     <command xml:space="preserve">ask about chicken</command>
     <result xml:space="preserve">&gt;</result>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="40">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed450" />
+      <child nodeId="node-0x1f5ff60" />
     </children>
   </item>
-  <item nodeId="node-0x2ed450">
+  <item nodeId="node-0x1f5ff60">
     <command xml:space="preserve">ask about topic a</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="39">YES</temporary>
   </item>
-  <item nodeId="node-0x2ef4d0">
+  <item nodeId="node-0x1f5ffd0">
     <command xml:space="preserve">climb ladder</command>
     <result xml:space="preserve">I don&apos;t think much is to be achieved by that.
 
@@ -1061,10 +1061,10 @@ topic a response
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef540" />
+      <child nodeId="node-0x1f60040" />
     </children>
   </item>
-  <item nodeId="node-0x2ef540">
+  <item nodeId="node-0x1f60040">
     <command xml:space="preserve">go up</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1073,10 +1073,10 @@ topic a response
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef5b0" />
+      <child nodeId="node-0x1f600b0" />
     </children>
   </item>
-  <item nodeId="node-0x2ef5b0">
+  <item nodeId="node-0x1f600b0">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1085,10 +1085,10 @@ topic a response
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef620" />
+      <child nodeId="node-0x1f60120" />
     </children>
   </item>
-  <item nodeId="node-0x2ef620">
+  <item nodeId="node-0x1f60120">
     <command xml:space="preserve">x ladder</command>
     <result xml:space="preserve">The ladder is made of wood. It&apos;s sturdy enough to carry you up to the attic and back down to the living room.
 
@@ -1097,10 +1097,10 @@ topic a response
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef690" />
+      <child nodeId="node-0x1f60190" />
     </children>
   </item>
-  <item nodeId="node-0x2ef690">
+  <item nodeId="node-0x1f60190">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1109,10 +1109,10 @@ topic a response
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef700" />
+      <child nodeId="node-0x1f60200" />
     </children>
   </item>
-  <item nodeId="node-0x2ef700">
+  <item nodeId="node-0x1f60200">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 General Store
@@ -1123,10 +1123,10 @@ The General Store sells like everything.
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef770" />
+      <child nodeId="node-0x1f60270" />
     </children>
   </item>
-  <item nodeId="node-0x2ef770">
+  <item nodeId="node-0x1f60270">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Living Room
@@ -1137,10 +1137,10 @@ Your living room is very clean, but only because you just moved in to this house
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef7e0" />
+      <child nodeId="node-0x1f602e0" />
     </children>
   </item>
-  <item nodeId="node-0x2ef7e0">
+  <item nodeId="node-0x1f602e0">
     <command xml:space="preserve">u</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1149,10 +1149,10 @@ Your living room is very clean, but only because you just moved in to this house
     <changed>YES</changed>
     <temporary score="33">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef850" />
+      <child nodeId="node-0x1f60350" />
     </children>
   </item>
-  <item nodeId="node-0x2ef850">
+  <item nodeId="node-0x1f60350">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1161,7 +1161,7 @@ Your living room is very clean, but only because you just moved in to this house
     <changed>YES</changed>
     <temporary score="32">YES</temporary>
   </item>
-  <item nodeId="node-0x2ef3f0">
+  <item nodeId="node-0x1f603c0">
     <command xml:space="preserve">put booba on table</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1170,10 +1170,10 @@ Your living room is very clean, but only because you just moved in to this house
     <changed>YES</changed>
     <temporary score="114">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef460" />
+      <child nodeId="node-0x1f60430" />
     </children>
   </item>
-  <item nodeId="node-0x2ef460">
+  <item nodeId="node-0x1f60430">
     <command xml:space="preserve">put the booba on the table</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1182,7 +1182,7 @@ Your living room is very clean, but only because you just moved in to this house
     <changed>YES</changed>
     <temporary score="113">YES</temporary>
   </item>
-  <item nodeId="node-0x2f01f0">
+  <item nodeId="node-0x1f604a0">
     <command xml:space="preserve">ne</command>
     <result xml:space="preserve">
 Green House
@@ -1193,10 +1193,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="112">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0260" />
+      <child nodeId="node-0x1f60510" />
     </children>
   </item>
-  <item nodeId="node-0x2f0260">
+  <item nodeId="node-0x1f60510">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Back Porch
@@ -1207,10 +1207,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>NO</changed>
     <temporary score="112">YES</temporary>
     <children>
-      <child nodeId="node-0x2f02d0" />
+      <child nodeId="node-0x1f60580" />
     </children>
   </item>
-  <item nodeId="node-0x2f02d0">
+  <item nodeId="node-0x1f60580">
     <command xml:space="preserve">take spoon</command>
     <result xml:space="preserve">Taken.
 
@@ -1219,11 +1219,11 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>NO</changed>
     <temporary score="112">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0570" />
-      <child nodeId="node-0x2f0340" />
+      <child nodeId="node-0x1f60820" />
+      <child nodeId="node-0x1f605f0" />
     </children>
   </item>
-  <item nodeId="node-0x2f0340">
+  <item nodeId="node-0x1f605f0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Green House
@@ -1234,10 +1234,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="112">YES</temporary>
     <children>
-      <child nodeId="node-0x2f03b0" />
+      <child nodeId="node-0x1f60660" />
     </children>
   </item>
-  <item nodeId="node-0x2f03b0">
+  <item nodeId="node-0x1f60660">
     <command xml:space="preserve">sw</command>
     <result xml:space="preserve">
 Living Room
@@ -1248,10 +1248,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="112">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0420" />
+      <child nodeId="node-0x1f606d0" />
     </children>
   </item>
-  <item nodeId="node-0x2f0420">
+  <item nodeId="node-0x1f606d0">
     <command xml:space="preserve">put spoon on table</command>
     <result xml:space="preserve">You put the wooden spoon on the large wooden table.
 
@@ -1260,10 +1260,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="112">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0490" />
+      <child nodeId="node-0x1f60740" />
     </children>
   </item>
-  <item nodeId="node-0x2f0490">
+  <item nodeId="node-0x1f60740">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying nothing.
 
@@ -1272,10 +1272,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="112">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0500" />
+      <child nodeId="node-0x1f607b0" />
     </children>
   </item>
-  <item nodeId="node-0x2f0500">
+  <item nodeId="node-0x1f607b0">
     <command xml:space="preserve">x table</command>
     <result xml:space="preserve">The table is made of dark oak wood. On the table is a typewriter.
 
@@ -1286,7 +1286,7 @@ On the large wooden table is a wooden spoon.
     <changed>YES</changed>
     <temporary score="111">YES</temporary>
   </item>
-  <item nodeId="node-0x2f0570">
+  <item nodeId="node-0x1f60820">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   a wooden spoon
@@ -1296,10 +1296,10 @@ On the large wooden table is a wooden spoon.
     <changed>NO</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0x2f05e0" />
+      <child nodeId="node-0x1f60890" />
     </children>
   </item>
-  <item nodeId="node-0x2f05e0">
+  <item nodeId="node-0x1f60890">
     <command xml:space="preserve">x spoon</command>
     <result xml:space="preserve">The spoon is about as long as your hand and made of cheap wood. The handle of the spoon reads &quot;FOR USE WITH INK ONLY&quot;
 
@@ -1308,10 +1308,10 @@ On the large wooden table is a wooden spoon.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0650" />
+      <child nodeId="node-0x1f60900" />
     </children>
   </item>
-  <item nodeId="node-0x2f0650">
+  <item nodeId="node-0x1f60900">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Green House
@@ -1322,10 +1322,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0x2f06c0" />
+      <child nodeId="node-0x1f60970" />
     </children>
   </item>
-  <item nodeId="node-0x2f06c0">
+  <item nodeId="node-0x1f60970">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -1338,10 +1338,10 @@ You can see a Front Door here.
     <changed>YES</changed>
     <temporary score="42">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0730" />
+      <child nodeId="node-0x1f609e0" />
     </children>
   </item>
-  <item nodeId="node-0x2f0730">
+  <item nodeId="node-0x1f609e0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
 
@@ -1350,7 +1350,7 @@ You can see a Front Door here.
     <changed>YES</changed>
     <temporary score="41">YES</temporary>
   </item>
-  <item nodeId="node-0x2ed060">
+  <item nodeId="node-0x1f60a50">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bedroom
@@ -1361,10 +1361,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>NO</changed>
     <temporary score="81">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed0d0" />
+      <child nodeId="node-0x1f60ac0" />
     </children>
   </item>
-  <item nodeId="node-0x2ed0d0">
+  <item nodeId="node-0x1f60ac0">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Bathroom
@@ -1375,10 +1375,10 @@ The bathroom is smaller than any other room in the house. You can see a mirror i
     <changed>NO</changed>
     <temporary score="81">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed140" />
+      <child nodeId="node-0x1f60b30" />
     </children>
   </item>
-  <item nodeId="node-0x2ed140">
+  <item nodeId="node-0x1f60b30">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -1387,10 +1387,10 @@ The bathroom is smaller than any other room in the house. You can see a mirror i
     <changed>NO</changed>
     <temporary score="81">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed1f0" />
+      <child nodeId="node-0x1f60ba0" />
     </children>
   </item>
-  <item nodeId="node-0x2ed1f0">
+  <item nodeId="node-0x1f60ba0">
     <command xml:space="preserve">x mirror</command>
     <result xml:space="preserve">The mirror&apos;s glass is scratched but you can still see your reflection
 
@@ -1399,10 +1399,10 @@ The bathroom is smaller than any other room in the house. You can see a mirror i
     <changed>NO</changed>
     <temporary score="81">YES</temporary>
     <children>
-      <child nodeId="node-0x2ed250" />
+      <child nodeId="node-0x1f60c10" />
     </children>
   </item>
-  <item nodeId="node-0x2ed250">
+  <item nodeId="node-0x1f60c10">
     <command xml:space="preserve">x reflection</command>
     <result xml:space="preserve">There&apos;s bags under your eyes from working late at your local newspaper as a journalist.
 
@@ -1411,7 +1411,7 @@ The bathroom is smaller than any other room in the house. You can see a mirror i
     <changed>YES</changed>
     <temporary score="80">YES</temporary>
   </item>
-  <item nodeId="node-0x2ef8c0">
+  <item nodeId="node-0x1f60c80">
     <command xml:space="preserve">mix this</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1420,10 +1420,10 @@ The bathroom is smaller than any other room in the house. You can see a mirror i
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef930" />
+      <child nodeId="node-0x1f60cf0" />
     </children>
   </item>
-  <item nodeId="node-0x2ef930">
+  <item nodeId="node-0x1f60cf0">
     <command xml:space="preserve">mix table with that</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1432,10 +1432,10 @@ The bathroom is smaller than any other room in the house. You can see a mirror i
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2ef9a0" />
+      <child nodeId="node-0x1f60d60" />
     </children>
   </item>
-  <item nodeId="node-0x2ef9a0">
+  <item nodeId="node-0x1f60d60">
     <command xml:space="preserve">nw</command>
     <result xml:space="preserve">
 Purple House
@@ -1448,10 +1448,10 @@ Mrs Bloom is your small, kind, neighbor. Like the typewriter, she only really li
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efa10" />
+      <child nodeId="node-0x1f60dd0" />
     </children>
   </item>
-  <item nodeId="node-0x2efa10">
+  <item nodeId="node-0x1f60dd0">
     <command xml:space="preserve">ask mrs bloom about ink</command>
     <result xml:space="preserve">&quot;Oh, that reminds me!&quot;, she says, &quot;I have all this leftover purple ink from my custom dyed stationery paper and I was looking for somebody who might want to use it. You&apos;re a writer, right? Here, take it!&quot;
 
@@ -1462,10 +1462,10 @@ She hands you a jar of purple ink. &quot;I&apos;ll see you later&quot;, she says
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efa80" />
+      <child nodeId="node-0x1f60e40" />
     </children>
   </item>
-  <item nodeId="node-0x2efa80">
+  <item nodeId="node-0x1f60e40">
     <command xml:space="preserve">ii</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1474,10 +1474,10 @@ She hands you a jar of purple ink. &quot;I&apos;ll see you later&quot;, she says
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efaf0" />
+      <child nodeId="node-0x1f60eb0" />
     </children>
   </item>
-  <item nodeId="node-0x2efaf0">
+  <item nodeId="node-0x1f60eb0">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   a jar of purple ink
@@ -1487,10 +1487,10 @@ She hands you a jar of purple ink. &quot;I&apos;ll see you later&quot;, she says
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efb60" />
+      <child nodeId="node-0x1f60f20" />
     </children>
   </item>
-  <item nodeId="node-0x2efb60">
+  <item nodeId="node-0x1f60f20">
     <command xml:space="preserve"></command>
     <result xml:space="preserve">I beg your pardon?
 
@@ -1499,10 +1499,10 @@ She hands you a jar of purple ink. &quot;I&apos;ll see you later&quot;, she says
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efbd0" />
+      <child nodeId="node-0x1f60f90" />
     </children>
   </item>
-  <item nodeId="node-0x2efbd0">
+  <item nodeId="node-0x1f60f90">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -1513,10 +1513,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efc40" />
+      <child nodeId="node-0x1f61000" />
     </children>
   </item>
-  <item nodeId="node-0x2efc40">
+  <item nodeId="node-0x1f61000">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">
 Green House
@@ -1527,10 +1527,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efcb0" />
+      <child nodeId="node-0x1f61070" />
     </children>
   </item>
-  <item nodeId="node-0x2efcb0">
+  <item nodeId="node-0x1f61070">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Back Porch
@@ -1541,10 +1541,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efd20" />
+      <child nodeId="node-0x1f610e0" />
     </children>
   </item>
-  <item nodeId="node-0x2efd20">
+  <item nodeId="node-0x1f610e0">
     <command xml:space="preserve">take spoon</command>
     <result xml:space="preserve">Taken.
 
@@ -1553,10 +1553,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efd90" />
+      <child nodeId="node-0x1f61150" />
     </children>
   </item>
-  <item nodeId="node-0x2efd90">
+  <item nodeId="node-0x1f61150">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   a wooden spoon
@@ -1567,10 +1567,10 @@ The back porch of the Green House is covered in cobwebs. The air smells strongly
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efe00" />
+      <child nodeId="node-0x1f611c0" />
     </children>
   </item>
-  <item nodeId="node-0x2efe00">
+  <item nodeId="node-0x1f611c0">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Green House
@@ -1581,10 +1581,10 @@ You bought the typewriter at this house. It&apos;s called the &quot;Green House&
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efe70" />
+      <child nodeId="node-0x1f61230" />
     </children>
   </item>
-  <item nodeId="node-0x2efe70">
+  <item nodeId="node-0x1f61230">
     <command xml:space="preserve">sw</command>
     <result xml:space="preserve">
 Living Room
@@ -1595,10 +1595,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2efee0" />
+      <child nodeId="node-0x1f612a0" />
     </children>
   </item>
-  <item nodeId="node-0x2efee0">
+  <item nodeId="node-0x1f612a0">
     <command xml:space="preserve">mix ink with spoon</command>
     <result xml:space="preserve">You begin mixing the ink. It looks as if nothing is happening but you continue to mix despite observing this. After what seems like a long time, you take a closer look at the jar you&apos;re mixing and notice it is now labeled &quot;JAR OF MIXED INK&quot;. Perfect! Now you can put it on the table!
 
@@ -1607,10 +1607,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2eff50" />
+      <child nodeId="node-0x1f61310" />
     </children>
   </item>
-  <item nodeId="node-0x2eff50">
+  <item nodeId="node-0x1f61310">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying:
   a jar of mixed ink
@@ -1620,10 +1620,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>YES</changed>
     <temporary score="136">YES</temporary>
     <children>
-      <child nodeId="node-0x2effc0" />
+      <child nodeId="node-0x1f61380" />
     </children>
   </item>
-  <item nodeId="node-0x2effc0">
+  <item nodeId="node-0x1f61380">
     <command xml:space="preserve">put jar of mixed on table</command>
     <result xml:space="preserve">
 
@@ -1637,7 +1637,7 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
     <changed>YES</changed>
     <temporary score="135">YES</temporary>
   </item>
-  <item nodeId="node-0x2f07a0">
+  <item nodeId="node-0x1f613f0">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">
 Attic
@@ -1648,13 +1648,13 @@ The attic is dark and dusty. It seems to be about five feet tall so you have to 
     <changed>NO</changed>
     <temporary score="63">YES</temporary>
     <children>
-      <child nodeId="node-0x2f10d0" />
-      <child nodeId="node-0x2f0dc0" />
-      <child nodeId="node-0x2f0c70" />
-      <child nodeId="node-0x2f0810" />
+      <child nodeId="node-0x1f61d20" />
+      <child nodeId="node-0x1f61a10" />
+      <child nodeId="node-0x1f618c0" />
+      <child nodeId="node-0x1f61460" />
     </children>
   </item>
-  <item nodeId="node-0x2f0810">
+  <item nodeId="node-0x1f61460">
     <command xml:space="preserve">take flyer</command>
     <result xml:space="preserve">The flyer is pretty gross. If you took it downstairs you might get dust everywhere. You decide to leave it in the attic.
 
@@ -1663,10 +1663,10 @@ The attic is dark and dusty. It seems to be about five feet tall so you have to 
     <changed>NO</changed>
     <temporary score="63">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0880" />
+      <child nodeId="node-0x1f614d0" />
     </children>
   </item>
-  <item nodeId="node-0x2f0880">
+  <item nodeId="node-0x1f614d0">
     <command xml:space="preserve">x flyer</command>
     <result xml:space="preserve">The flyer looks dated; it&apos;s slightly wrinkled and covered in dust. It reads in large, plain text: TIME SHINES; BLOOM BEFORE MIXING.
 
@@ -1675,10 +1675,10 @@ The attic is dark and dusty. It seems to be about five feet tall so you have to 
     <changed>NO</changed>
     <temporary score="63">YES</temporary>
     <children>
-      <child nodeId="node-0x2f08f0" />
+      <child nodeId="node-0x1f61540" />
     </children>
   </item>
-  <item nodeId="node-0x2f08f0">
+  <item nodeId="node-0x1f61540">
     <command xml:space="preserve">i</command>
     <result xml:space="preserve">You are carrying nothing.
 
@@ -1687,10 +1687,10 @@ The attic is dark and dusty. It seems to be about five feet tall so you have to 
     <changed>NO</changed>
     <temporary score="63">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0960" />
+      <child nodeId="node-0x1f615b0" />
     </children>
   </item>
-  <item nodeId="node-0x2f0960">
+  <item nodeId="node-0x1f615b0">
     <command xml:space="preserve">down</command>
     <result xml:space="preserve">
 Living Room
@@ -1701,10 +1701,10 @@ Your living room is very clean, but, only because you just moved into this house
     <changed>NO</changed>
     <temporary score="63">YES</temporary>
     <children>
-      <child nodeId="node-0x2f09d0" />
+      <child nodeId="node-0x1f61620" />
     </children>
   </item>
-  <item nodeId="node-0x2f09d0">
+  <item nodeId="node-0x1f61620">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">
 Bedroom
@@ -1715,10 +1715,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>NO</changed>
     <temporary score="63">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0a40" />
+      <child nodeId="node-0x1f61690" />
     </children>
   </item>
-  <item nodeId="node-0x2f0a40">
+  <item nodeId="node-0x1f61690">
     <command xml:space="preserve">x mattress</command>
     <result xml:space="preserve">The small yellow mattress lays on the floor of the Bedroom. It&apos;s a bit dusty. Its springs creak when you sit on it.
 
@@ -1727,10 +1727,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>NO</changed>
     <temporary score="63">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0ab0" />
+      <child nodeId="node-0x1f61700" />
     </children>
   </item>
-  <item nodeId="node-0x2f0ab0">
+  <item nodeId="node-0x1f61700">
     <command xml:space="preserve">take mattress</command>
     <result xml:space="preserve">That&apos;s hardly portable.
 
@@ -1739,10 +1739,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>NO</changed>
     <temporary score="63">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0b20" />
+      <child nodeId="node-0x1f61770" />
     </children>
   </item>
-  <item nodeId="node-0x2f0b20">
+  <item nodeId="node-0x1f61770">
     <command xml:space="preserve">x moving boxes</command>
     <result xml:space="preserve">The boxes are big and sealed tight with duct tape. You haven&apos;t unpacked the boxes yet because there&apos;s nothing inside them that you need.
 
@@ -1751,10 +1751,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>NO</changed>
     <temporary score="63">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0b90" />
+      <child nodeId="node-0x1f617e0" />
     </children>
   </item>
-  <item nodeId="node-0x2f0b90">
+  <item nodeId="node-0x1f617e0">
     <command xml:space="preserve">open boxes</command>
     <result xml:space="preserve">You decide you&apos;d rather not open the boxes.
 
@@ -1763,10 +1763,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>NO</changed>
     <temporary score="63">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0c00" />
+      <child nodeId="node-0x1f61850" />
     </children>
   </item>
-  <item nodeId="node-0x2f0c00">
+  <item nodeId="node-0x1f61850">
     <command xml:space="preserve">open box</command>
     <result xml:space="preserve">You decide you&apos;d rather not open the boxes.
 
@@ -1775,7 +1775,7 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>YES</changed>
     <temporary score="62">YES</temporary>
   </item>
-  <item nodeId="node-0x2f0c70">
+  <item nodeId="node-0x1f618c0">
     <command xml:space="preserve">x ladder</command>
     <result xml:space="preserve">The ladder is made of wood. It&apos;s sturdy enough to carry you up to the attic and back down to the living room.
 
@@ -1784,10 +1784,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>NO</changed>
     <temporary score="61">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0ce0" />
+      <child nodeId="node-0x1f61930" />
     </children>
   </item>
-  <item nodeId="node-0x2f0ce0">
+  <item nodeId="node-0x1f61930">
     <command xml:space="preserve">down</command>
     <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
 
@@ -1796,10 +1796,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>YES</changed>
     <temporary score="61">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0d50" />
+      <child nodeId="node-0x1f619a0" />
     </children>
   </item>
-  <item nodeId="node-0x2f0d50">
+  <item nodeId="node-0x1f619a0">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1808,7 +1808,7 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>YES</changed>
     <temporary score="60">YES</temporary>
   </item>
-  <item nodeId="node-0x2f0dc0">
+  <item nodeId="node-0x1f61a10">
     <command xml:space="preserve">get on ladd3r</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1817,10 +1817,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>YES</changed>
     <temporary score="41">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0e30" />
+      <child nodeId="node-0x1f61a80" />
     </children>
   </item>
-  <item nodeId="node-0x2f0e30">
+  <item nodeId="node-0x1f61a80">
     <command xml:space="preserve">get on ladder</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1829,10 +1829,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>YES</changed>
     <temporary score="41">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0ea0" />
+      <child nodeId="node-0x1f61af0" />
     </children>
   </item>
-  <item nodeId="node-0x2f0ea0">
+  <item nodeId="node-0x1f61af0">
     <command xml:space="preserve">climb on ladder</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1841,10 +1841,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>YES</changed>
     <temporary score="41">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0f10" />
+      <child nodeId="node-0x1f61b60" />
     </children>
   </item>
-  <item nodeId="node-0x2f0f10">
+  <item nodeId="node-0x1f61b60">
     <command xml:space="preserve">walk up ladder</command>
     <result xml:space="preserve">I only understood you as far as wanting to walk up.
 
@@ -1853,10 +1853,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>YES</changed>
     <temporary score="41">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0f80" />
+      <child nodeId="node-0x1f61bd0" />
     </children>
   </item>
-  <item nodeId="node-0x2f0f80">
+  <item nodeId="node-0x1f61bd0">
     <command xml:space="preserve">walk up</command>
     <result xml:space="preserve">You can&apos;t go that way.
 
@@ -1865,10 +1865,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>YES</changed>
     <temporary score="41">YES</temporary>
     <children>
-      <child nodeId="node-0x2f0ff0" />
+      <child nodeId="node-0x1f61c40" />
     </children>
   </item>
-  <item nodeId="node-0x2f0ff0">
+  <item nodeId="node-0x1f61c40">
     <command xml:space="preserve">use ladder</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1877,10 +1877,10 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>YES</changed>
     <temporary score="41">YES</temporary>
     <children>
-      <child nodeId="node-0x2f1060" />
+      <child nodeId="node-0x1f61cb0" />
     </children>
   </item>
-  <item nodeId="node-0x2f1060">
+  <item nodeId="node-0x1f61cb0">
     <command xml:space="preserve">step on ladder</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -1889,7 +1889,7 @@ Your bedroom probably shouldn&apos;t be called that because it has no real bed a
     <changed>YES</changed>
     <temporary score="40">YES</temporary>
   </item>
-  <item nodeId="node-0x2f10d0">
+  <item nodeId="node-0x1f61d20">
     <command xml:space="preserve">down</command>
     <result xml:space="preserve">
 Living Room
@@ -1900,12 +1900,12 @@ Your living room is very clean, but only because you just moved in to this house
     <changed>YES</changed>
     <temporary score="66">YES</temporary>
     <children>
-      <child nodeId="node-0x2f13e0" />
-      <child nodeId="node-0x2f1370" />
-      <child nodeId="node-0x2f1140" />
+      <child nodeId="node-0x1f62030" />
+      <child nodeId="node-0x1f61fc0" />
+      <child nodeId="node-0x1f61d90" />
     </children>
   </item>
-  <item nodeId="node-0x2f1140">
+  <item nodeId="node-0x1f61d90">
     <command xml:space="preserve">x ladder</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1914,10 +1914,10 @@ Your living room is very clean, but only because you just moved in to this house
     <changed>YES</changed>
     <temporary score="45">YES</temporary>
     <children>
-      <child nodeId="node-0x2f11b0" />
+      <child nodeId="node-0x1f61e00" />
     </children>
   </item>
-  <item nodeId="node-0x2f11b0">
+  <item nodeId="node-0x1f61e00">
     <command xml:space="preserve">look</command>
     <result xml:space="preserve">Living Room
 You love the living room. You live in it.
@@ -1927,10 +1927,10 @@ You love the living room. You live in it.
     <changed>YES</changed>
     <temporary score="45">YES</temporary>
     <children>
-      <child nodeId="node-0x2f1220" />
+      <child nodeId="node-0x1f61e70" />
     </children>
   </item>
-  <item nodeId="node-0x2f1220">
+  <item nodeId="node-0x1f61e70">
     <command xml:space="preserve">take ladder</command>
     <result xml:space="preserve">You can&apos;t see any such thing.
 
@@ -1939,10 +1939,10 @@ You love the living room. You live in it.
     <changed>YES</changed>
     <temporary score="45">YES</temporary>
     <children>
-      <child nodeId="node-0x2f1290" />
+      <child nodeId="node-0x1f61ee0" />
     </children>
   </item>
-  <item nodeId="node-0x2f1290">
+  <item nodeId="node-0x1f61ee0">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">
 Attic below the Living Room
@@ -1955,10 +1955,10 @@ You can see a ladder here.
     <changed>YES</changed>
     <temporary score="45">YES</temporary>
     <children>
-      <child nodeId="node-0x2f1300" />
+      <child nodeId="node-0x1f61f50" />
     </children>
   </item>
-  <item nodeId="node-0x2f1300">
+  <item nodeId="node-0x1f61f50">
     <command xml:space="preserve">take ladder</command>
     <result xml:space="preserve">That&apos;s fixed in place.
 
@@ -1967,13 +1967,13 @@ You can see a ladder here.
     <changed>YES</changed>
     <temporary score="44">YES</temporary>
   </item>
-  <item nodeId="node-0x2f1370">
+  <item nodeId="node-0x1f61fc0">
     <command xml:space="preserve">up</command>
     <played>YES</played>
     <changed>YES</changed>
     <temporary score="65">YES</temporary>
   </item>
-  <item nodeId="node-0x2f13e0">
+  <item nodeId="node-0x1f62030">
     <command xml:space="preserve">s</command>
     <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
 
@@ -1982,10 +1982,10 @@ You can see a ladder here.
     <changed>YES</changed>
     <temporary score="51">YES</temporary>
     <children>
-      <child nodeId="node-0x2f1450" />
+      <child nodeId="node-0x1f620a0" />
     </children>
   </item>
-  <item nodeId="node-0x2f1450">
+  <item nodeId="node-0x1f620a0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
 
@@ -1994,10 +1994,10 @@ You can see a ladder here.
     <changed>YES</changed>
     <temporary score="51">YES</temporary>
     <children>
-      <child nodeId="node-0x2f14c0" />
+      <child nodeId="node-0x1f62110" />
     </children>
   </item>
-  <item nodeId="node-0x2f14c0">
+  <item nodeId="node-0x1f62110">
     <command xml:space="preserve">e</command>
     <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
 
@@ -2006,10 +2006,10 @@ You can see a ladder here.
     <changed>YES</changed>
     <temporary score="51">YES</temporary>
     <children>
-      <child nodeId="node-0x2f1530" />
+      <child nodeId="node-0x1f62180" />
     </children>
   </item>
-  <item nodeId="node-0x2f1530">
+  <item nodeId="node-0x1f62180">
     <command xml:space="preserve">w</command>
     <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
 
@@ -2018,10 +2018,10 @@ You can see a ladder here.
     <changed>YES</changed>
     <temporary score="51">YES</temporary>
     <children>
-      <child nodeId="node-0x2f15a0" />
+      <child nodeId="node-0x1f621f0" />
     </children>
   </item>
-  <item nodeId="node-0x2f15a0">
+  <item nodeId="node-0x1f621f0">
     <command xml:space="preserve">down</command>
     <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
 
@@ -2030,10 +2030,10 @@ You can see a ladder here.
     <changed>YES</changed>
     <temporary score="51">YES</temporary>
     <children>
-      <child nodeId="node-0x2f1610" />
+      <child nodeId="node-0x1f62260" />
     </children>
   </item>
-  <item nodeId="node-0x2f1610">
+  <item nodeId="node-0x1f62260">
     <command xml:space="preserve">not up</command>
     <result xml:space="preserve">That&apos;s not a verb I recognise.
 
@@ -2042,10 +2042,10 @@ You can see a ladder here.
     <changed>YES</changed>
     <temporary score="51">YES</temporary>
     <children>
-      <child nodeId="node-0x2f1680" />
+      <child nodeId="node-0x1f622d0" />
     </children>
   </item>
-  <item nodeId="node-0x2f1680">
+  <item nodeId="node-0x1f622d0">
     <command xml:space="preserve">up</command>
     <result xml:space="preserve">Not every direction holds something of value. Go in another direction.
 
@@ -2054,7 +2054,7 @@ You can see a ladder here.
     <changed>YES</changed>
     <temporary score="50">YES</temporary>
   </item>
-  <item nodeId="node-0x69034d0">
+  <item nodeId="node-0x1f62340">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">
 Front of the General Store
@@ -2065,10 +2065,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="4">YES</temporary>
     <children>
-      <child nodeId="node-0x2e7e00" />
+      <child nodeId="node-0x1f623b0" />
     </children>
   </item>
-  <item nodeId="node-0x2e7e00">
+  <item nodeId="node-0x1f623b0">
     <command xml:space="preserve">n</command>
     <result xml:space="preserve">You turn the doorknob and start to walk inside. The little bell tied to the doorknob wakes the sleeping guard who shoos you outside and closes the door.
 
@@ -2077,10 +2077,10 @@ From where you stand in front of the General Store, it looks like something out 
     <changed>YES</changed>
     <temporary score="4">YES</temporary>
     <children>
-      <child nodeId="node-0x16c3a0" />
+      <child nodeId="node-0x1f62420" />
     </children>
   </item>
-  <item nodeId="node-0x16c3a0">
+  <item nodeId="node-0x1f62420">
     <command xml:space="preserve">n</command>
     <played>YES</played>
     <changed>YES</changed>
